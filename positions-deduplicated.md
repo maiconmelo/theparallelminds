@@ -3907,12 +3907,6 @@ As a member of the GPU AI/HPC Infrastructure team, you will provide leadership i
 
 ---
 
-## 93. Senior AI and ML HPC Cluster Engineer - NVIDIA (Austin)
-
-[This is the same role as Entry 92, but located in Austin, TX. The description is identical, with only the location changed.]
-
----
-
 ## 94. HPC and AI Cluster Engineer - NVIDIA (Beijing)
 
 NVIDIA is looking for a HPC and AI Cluster Engineer to join the Networking clusters solutions HPC/AI Infrastructure team. We are building supercomputers and AI clusters based on groundbreaking technologies. We are looking for a cluster engineer to be a key player to the most exciting computing hardware and software to contribute to the latest breakthroughs in artificial intelligence and GPU computing
@@ -4230,12 +4224,6 @@ You will work with the latest Accelerated computing and Deep Learning software a
 
 ---
 
-## 101. Senior HPC Storage Engineer - NVIDIA (Austin)
-
-[This is the same role as Entry 102, but located in Austin, TX. The description is identical, with only the location changed.]
-
----
-
 ## 102. Senior HPC Storage Engineer - NVIDIA (Santa Clara)
 
 NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It's a unique legacy of innovation that's fueled by great technology---and amazing people. Today, we're tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what's never been done before takes vision, innovation, and the world's best talent. As an NVIDIAN, you'll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.
@@ -4543,12 +4531,6 @@ As a member of the Hardware Infrastructure Farm team, you will provide leadershi
 
 ---
 
-## 111. Systems Engineer, HPC (US & Canada) - Mistral (New York)
-
-[This is the same role as Entry 2, but located in New York, NY. The description is identical, with only the location changed.]
-
----
-
 ## 112. C++ Engineer - High Performance Computing (HPC) - Alignerr (Seattle)
 
 **C++ Engineer --- High Performance Computing (HPC)**
@@ -4589,12 +4571,6 @@ This is a fully remote, flexible contract role for a seasoned systems engineer w
 
 ---
 
-## 113. HPC Specialist Architect - Energy Industry - AWS (Spain)
-
-[This is the same role as Entry 58, but located in Madrid, Spain. The description is identical, with only the location changed.]
-
----
-
 ## 114. HPC and Storage Technology Consultant - HPE (Dubai)
 
 **This role has been designed as ''Onsite' with an expectation that you will primarily work from an HPE partner/customer office.**
@@ -4632,30 +4608,6 @@ Provide technology consulting to external customers and internal project teams. 
   - Act as an advocate for the Customer and their teams is an advantage.
   - Advanced skills in customer service and customer facing communication
   - Willing to relocate to the United Arab Emirates.
-
----
-
-## 115. HPC and Storage Technology Consultant - HPE (Abu Dhabi)
-
-[This is the same role as Entry 114, but located in Abu Dhabi, UAE. The description is identical, with only the location changed.]
-
----
-
-## 116. HPC and Storage Technology Consultant - HPE (Abu Dhabi - Additional)
-
-[This is the same role as Entry 114, but located in Abu Dhabi, UAE. The description is identical, with only the location changed.]
-
----
-
-## 117. HPC and Storage Technology Consultant - HPE (Abu Dhabi - Additional)
-
-[This is the same role as Entry 114, but located in Abu Dhabi, UAE. The description is identical, with only the location changed.]
-
----
-
-## 118. Senior HPC Storage Engineer - NVIDIA (Austin)
-
-[This is the same role as Entry 102, but located in Austin, TX. The description is identical, with only the location changed.]
 
 ---
 
@@ -4769,12 +4721,6 @@ Generative AI is revolutionizing. Ranging from supercomputing, higher education,
 
 ---
 
-## 122. Solutions Architect, AI for Science and HPC - NVIDIA (Tokyo)
-
-[This is the same role as Entry 121, but located in Tokyo, Japan. The description is identical, with only the location changed.]
-
----
-
 ## 123. Senior Software Architect - Deep Learning and HPC Communications - NVIDIA (Santa Clara)
 
 NVIDIA is leading groundbreaking developments in Artificial Intelligence, High Performance Computing and Visualization. The GPU -- our invention -- serves as the visual cortex of modern computers and is at the heart of our products and services. Our work opens up new universes to explore, enables groundbreaking creativity and discovery, and powers inventions that were once considered science fiction, including artificial intelligence to autonomous cars. We are the GPU Communications Libraries and Networking team at NVIDIA. We build communication libraries like NCCL, NVSHMEM, and UCX that are crucial for scaling Deep Learning and HPC. We're seeking a Senior Software Architect to help co-design next-gen data center platforms and scalable communications software.
@@ -4837,12 +4783,6 @@ We are looking for an outstanding hands-on architect/engineer for a Senior HPC a
 - Exposure to container technology and Linux performance tools.
 
 **Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 184,000 USD - 287,500 USD for Level 4, and 224,000 USD - 356,500 USD for Level 5.**
-
----
-
-## 125. Senior Software Architect - Deep Learning and HPC Communications - NVIDIA (Israel)
-
-[This is the same role as Entry 123, but located in Raanana, Israel. The description is identical, with only the location changed.]
 
 ---
 
@@ -5228,14 +5168,6 @@ NVIDIA is looking for a talented Performance Research and Analysis Engineer to j
 
 ---
 
-## 135. Senior AI and ML HPC Cluster Engineer - NVIDIA (Washington)
-
-**Location:** Washington, United States (Remote)
-
-[This is the same role as Entry 92, but located in Washington, USA. The description is identical, with only the location changed.]
-
----
-
 ## 136. System Infrastructure / Platform Engineer - Berkeley Lab
 
 **Location:** Berkeley, CA (Hybrid)
@@ -5328,14 +5260,6 @@ NVIDIA is looking for a Senior AI/HPC Engineer to join its infrastructure Specia
 
 ---
 
-## 138. Senior HPC Cluster Engineer - Jobgether (United Kingdom)
-
-**Location:** United Kingdom (Remote)
-
-[This is the same role as Entry 129, but located in the United Kingdom. The description is identical, with only the location changed.]
-
----
-
 ## 139. Senior HPC Performance Engineer - AI for Science at Scale - NVIDIA (Santa Clara)
 
 **Location:** Santa Clara, CA (Presencial)
@@ -5364,24 +5288,6 @@ NVIDIA has become the platform upon which every new AI-powered application is bu
 - Familiarity with pioneering language and geometric models used in AI for Science applications in biology and chemistry
 
 **Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 184,000 USD - 287,500 USD.**
-
----
-
-## 140. Data Center Engineer, HPC and AI - NVIDIA (Israel - Yokneam Ilit)
-
-**Location:** Yokneam Ilit, Distrito Norte, Israel (Presencial)
-
-[This is the same role as Entry 103, but located in Yokneam Ilit, Israel. The description is identical, with only the location changed.]
-
----
-
-## 141. Senior HPC Infrastructure Engineer - University of Warwick
-
-**Location:** Coventry, England, United Kingdom (Presencial)
-
-**Salary Range:** £47,389 - £56,535 per year
-
-[This is the same role as Entry 86. The description is identical.]
 
 ---
 
@@ -5765,14 +5671,6 @@ We are looking for a dynamic, proactive and talented person to join our team and
 - Experience with infrastructure management tools such as HPE OneView and/or Lenovo XClarity
 - Good understanding of the hardware lifecycle (capacity planning, deployment, decommissioning)
 - Strong communication skills in English, with the ability to collaborate with technical and business stakeholders
-
----
-
-## 152. Senior HPC and AI Networking Performance Research and Analysis Engineer - NVIDIA (Beijing)
-
-**Location:** Beijing, Pequim, China (Presencial)
-
-[This is the same role as Entry 134, but located in Beijing, China. The description is identical, with only the location changed.]
 
 ---
 
@@ -6304,14 +6202,6 @@ Phoenix is seeking a High Performance Computing (HPC) Systems Engineer to suppor
 
 ---
 
-## 167. Application Engineer (HPC) - Altair
-
-**Location:** Taipé, Taipé, Taiwan (Presencial)
-
-[This is the same role as Entry 157, but posted by Altair directly. The description is identical.]
-
----
-
 ## 168. HPC Platform Engineer - Shield Consulting Solutions, Inc.
 
 **Location:** Annapolis Junction, MD (Presencial)
@@ -6350,16 +6240,6 @@ Phoenix is seeking a High Performance Computing (HPC) Systems Engineer to suppor
 
 ---
 
-## 169. HPC Engineer, Mid - Booz Allen Hamilton (Additional)
-
-**Location:** Município de Patterson, OH (Presencial)
-
-**Job Number:** R0240542
-
-[This is the same role as Entry 162. The description is identical.]
-
----
-
 ## 170. Lead Engineer (HPC, GPU, CUDA) - AIRA Matrix
 
 **Location:** Tana, Maharashtra, Índia (Presencial)
@@ -6390,16 +6270,6 @@ Phoenix is seeking a High Performance Computing (HPC) Systems Engineer to suppor
 - Hands-on experience with Software Defined Networking and HPC cluster networking.
 - Working knowledge of cluster configuration management tools such as Ansible, Puppet, Salt.
 - Understanding of fast, distributed storage systems and Linux file systems for HPC workloads.
-
----
-
-## 171. HPC Engineer - Sabre Systems, LLC
-
-**Location:** Dallas, TX (Presencial)
-
-**Salary Range:** $90,000 - $200,000
-
-[This is the same role as Entry 37, but located in Dallas, TX. The description is identical.]
 
 ---
 
@@ -6496,14 +6366,6 @@ Technology Resource Experts, LLC is looking for an experienced High-Performance 
 - Familiar with SAFe Agile principles, methodologies, and best practices
 - Experience with IaC principles and automation tools including Ansible
 - Experience with Git Source Control System
-
----
-
-## 175. GPU Software Engineer (HPC / Deep Learning Optimization) - Luxoft Poland
-
-**Location:** Danzigue e Região (Híbrido)
-
-[This is the same role as Entry 235 from the original file. The description is identical.]
 
 ---
 
@@ -7183,14 +7045,6 @@ We are seeking a HPC and AI Sales Specialist to drive HPC and AI sales across st
 
 ---
 
-## 194. Senior HPC and AI Network Software Architect - NVIDIA AI (UK)
-
-**Location:** Fisherton De La Mere, Inglaterra, Reino Unido (Presencial)
-
-[This is the same role as Entry 126, but located in the UK. The description is identical.]
-
----
-
 ## 195. HPC/AI Solution Architect - Cambridge Computer
 
 **Location:** Waltham, MA (Remoto)
@@ -7495,20 +7349,6 @@ This is a pivotal customer-facing role, responsible for guiding deployments, exe
 
 ---
 
-## 201. Solutions Architect -- HPC and Container Platform - algoleap
-
-**Location:** Bangalore, Carnataca, Índia (Presencial)
-
-**Job Title:** Solutions Architect -- HPC and container Platform.
-
-**Job Description**
-
-We are seeking an experienced Enterprise Solution Architect with expertise in High Performance Computing (HPC) and Container platforms in Linux-based environments to join our dynamic team. The ideal candidate will be responsible for architecting solutions including but not limited to installation, configuration, integration and implementation of HPC technologies and enterprise-grade container orchestration platform.
-
-[This is the same role as Entry 196, but posted by algoleap. The description is similar, with some minor formatting differences.]
-
----
-
 ## 202. Sr. Worldwide Specialist Solutions Architect - HPC/ML - AWS (Herndon)
 
 **Location:** Herndon, VA (Presencial)
@@ -7546,68 +7386,3 @@ Are you passionate about cloud computing and its potential to overcome some of t
 
 ---
 
-## 203. Sr. Worldwide Specialist Solutions Architect - HPC/ML - AWS (Seattle)
-
-**Location:** Seattle, WA (Presencial)
-
-[This is the same role as Entry 202, but located in Seattle, WA. The description is identical.]
-
-**Salary Range (USA, WA, Seattle): $153,600.00 - $207,800.00 USD annually**
-
----
-
-## 204. Distinguished Software Architect - Deep Learning and HPC Communications - NVIDIA AI (Santa Clara)
-
-**Location:** Santa Clara, CA (Presencial)
-
-**Salary Range:** $320,000 - $488,750
-
-[This is the same role as Entry 82, but posted by NVIDIA AI. The description is identical.]
-
----
-
-## 205. HPC Software Engineer with an active TS/SCI with a Full Scope Polygraph Security Clearance Required, Onsite - M - Jobs via Dice
-
-**Location:** Maryland, Estados Unidos (Presencial)
-
-[This is the same role as Entry 178.]
-
----
-
-## 206. Senior HPC AI Cluster Engineer - NVIDIA (France - Additional)
-
-**Location:** França (Remoto)
-
-[This is the same role as Entry 182.]
-
----
-
-## 207. HPC User Support Specialist - GRNET (Additional)
-
-**Location:** Atenas, Attica, Grécia (Híbrido)
-
-[This is the same role as Entry 183.]
-
----
-
-## 208. HPC Domain Specialist (Climate/Weather) - A*STAR (Additional)
-
-**Location:** Cingapura, Cingapura (Presencial)
-
-[This is the same role as Entry 184.]
-
----
-
-## 209. HPC Domain Specialist (Engineering, CFD) - A*STAR (Additional)
-
-**Location:** Cingapura, Cingapura (Presencial)
-
-[This is the same role as Entry 185.]
-
----
-
-## 210. HPC Training Specialist - A*STAR (Additional)
-
-**Location:** Cingapura, Cingapura (Presencial)
-
-[This is the same role as Entry 186.]
