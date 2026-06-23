@@ -1,14 +1,14 @@
-Each job position must be described in terms of three **Factors**:
+Each job position must be described in terms of three **factors**:
 
-F1- Qualification (what the candidate must have)
+A- Qualifications (what the candidate must have)
 
-F2- Knowledge (what the candidate must know)
+B- Knowledge and Skills (what the candidate must bring)
 
-F3- Responsibility (what the candidate will do)
+C- Responsibilities (what the candidate will do)
 
-F4- Offering (what the candidate will get)
+D- Offerings (what the candidate will get)
 
-Concerning **Qualification** (Factor F1), each job position is expressed into three **aspects**, where each aspect is classified within five exigence levels. 
+Concerning **Qualifications** (A), each job position is expressed into three aspects (years of experience, education degree, and certification), where each aspect is classified within five exigence levels. 
 
 Exigence levels 
 - Required
@@ -41,7 +41,7 @@ Certification
 - Core IT
 - Not mentioned
 
-Concerning **Knowledge** (Factor F2), each job position is expressed into three **aspects**, where each aspect is classified within five expertise levels.
+Concerning **Knowledge and Skills** (B), each job position is expressed into three aspects (HPC, IT core and Soft skills), where each aspect is classified within three expertise levels.
 
 Expertise level
 - Familiar
@@ -86,7 +86,8 @@ Soft Skills
 - Resilience
 
 
-Concerning *Reponsabilities* (Factor F2), each job position is expressed into the following items:
+Concerning **Reponsabilities** (C), each job position is expressed into the following items:
+
 - Design architecture 
 - Deploy infrastructure 
 - Operate infrastructure
@@ -99,7 +100,8 @@ Concerning *Reponsabilities* (Factor F2), each job position is expressed into th
 - Document solutions
 - Develop solutions 
 
-Concerning **Offerings** (Factor F3), each job position is expressed into three **aspects**:
+Concerning **Offerings** (D), each job position is expressed into four **aspects**:
+
 Area
 - Semiconductor Manufacturers
 - Cloud Providers
@@ -110,6 +112,7 @@ Area
 - Commercial
 - Financial Services 
 - Energy
+- Not mentioned 
 
 Work model
 - Onsite
@@ -124,8 +127,10 @@ Location
 - Global
 - Not mentioned
 
-Salary
+Compensation
+- Salary
+- Not mentioned 
 
-List of technical keywords 
+Besides four factors, each position must have an assign list of technical keywords (names of programming languages,  tools, frameworks, technologies etc) extracted from the job description.
 
-Considering these definitions, evaluate the last 10 positions of the attached file and generate a XML file containing the respective Qualifications, Responsibilities and Context. 
+Considering these definitions, evaluate the last 10 positions of the attached file and generate a XML file containing the respective Qualifications, Knowledge and Skills, Responsibilities and Offerings, and the list of keywords. 
