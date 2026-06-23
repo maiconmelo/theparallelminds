@@ -1,3 +1,4 @@
+
 Each job position must be described in terms of four **factors**:
 
 Q- Qualifications (what the candidate must have)
@@ -8,26 +9,26 @@ R- Responsibilities (what the candidate will do)
 
 O- Offerings (what the candidate will get)
 
-Concerning **Qualifications** (Q), each job position is expressed into three aspects (years of experience, education degree, and certification), where each aspect is classified within five exigence levels. 
+Concerning **Qualifications** (Q), each job position is expressed into three aspects (Experience, Formation, and Certification), where each aspect is classified within five exigence levels.
 
 Classifier
-Exigence levels 
+Exigence Levels
 - Required
 - Preferred
 - Desired
 - Distinctive
 - Not mentioned
 
-Aspects 
+Aspects
 Experience
-- Entry: 0 to 2 years 
-- Mid-level: 3 to 5 years 
-- Senior: 5 to 10 years 
-- Principal: 10 to 15 years 
-- Distinguished: more than 15 years 
+- Entry: 0 to 2 years
+- Mid-level: 3 to 5 years
+- Senior: 5 to 10 years
+- Principal: 10 to 15 years
+- Distinguished: more than 15 years
 - Not mentioned
 
-Formation 
+Formation
 - Experience replacement
 - Bachelor
 - Master
@@ -37,28 +38,30 @@ Formation
 Certification
 - Security
 - Compliance
-- HPC and GPU
+- HPC
+- GPU
 - Cloud
-- Linux 
-- Core IT
+- Linux
+- IT
 - Not mentioned
 
-Concerning **Knowledge and Skills** (K), each job position is expressed into three aspects (HPC, IT and Human-centric skills), where all aspects are classified within five exigence levels, and HPC and IT are also classified into three expertise levels.
+Concerning **Knowledge and Skills** (K), each job position is expressed into three aspects (HPC, IT and Human-centric), where all aspects are classified within five Exigence Levels, and HPC and IT are also classified into three Expertise Levels.
 
 Classifiers
-Expertise level
-- Familiar
-- Working
-- Expert
 
-Exigence levels 
+Exigence Levels
 - Required
 - Preferred
 - Desired
 - Distinctive
 - Not mentioned
 
-Aspects 
+Expertise Levels
+- Familiar
+- Working
+- Expert
+
+Aspects
 HPC
 - Job Scheduling
 - Parallel Computing
@@ -96,40 +99,47 @@ Human-centric
 - Project Management
 - Resilience
 
+Concerning **Reponsabilities** (R), each job position is expressed in just one aspect (Activity) and classified accordingly to Frequency Level:
 
-Concerning **Reponsabilities** (R), each job position is expressed into the following aspect:
-
-Classified
-Frequency Level  
+Classifier
+Frequency Levels  
+- Usually
 - Often
-- Sporadic 
+- Sometimes
+- Ocasionally
+- Not mentioned 
 
 Aspect
 Activity
-- Design architecture 
-- Deploy infrastructure 
+- Design architecture
+- Deploy infrastructure
 - Operate infrastructure
-- Optimize performance 
-- Monitor infrastructure 
-- Automate solutions 
+- Optimize performance
+- Monitor infrastructure
+- Automate solutions
 - Support users
+- Train users
+- Manage people
+- Manage projects
+- Plan capacity
 - Implement security
 - Maintain compliance
 - Document solutions
+- Share knowledge
 
-Concerning **Offerings** (O), each job position is expressed into four **aspects**:
+Concerning **Offerings** (O), each job position is expressed into four aspects:
 
 Area
 - Semiconductor Manufacturers
 - Cloud Providers
 - Government
 - Defense
-- Academic 
-- Artificial Inteligence 
+- Academic
+- Artificial Inteligence
 - Commercial
-- Financial Services 
+- Financial Services
 - Energy
-- Not mentioned 
+- Not mentioned
 
 Work model
 - Onsite
@@ -146,16 +156,16 @@ Location
 
 Compensation
 - Salary
-- Not mentioned 
+- Not mentioned
 
 Besides the four factors (Q, K, R, O) and their corresponding aspects, each position must have a list of technical keywords (names of programming languages, tools, frameworks, technologies etc) extracted from the job description.
 
-Example 
+Example
 Position 35
 Qualifications
-- Experience: Mid-level, Required 
+- Experience: Mid-level, Required
 - Formation: Bachelor, Required
-- Formation: Master, Distinctive 
+- Formation: Master, Distinctive
 - Certification: GPU, Desirable
 - Certification: Linux, Required
 Knowledge and Skills
