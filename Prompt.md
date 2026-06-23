@@ -158,7 +158,7 @@ Compensation
 - Salary
 - Not mentioned
 
-Besides the four factors (Q, K, R, O) and their corresponding aspects, each position must have a list of technical keywords (names of programming languages, tools, frameworks, technologies etc) extracted from the job description.
+Besides the four factors (Q, K, R, O) and their corresponding aspects, each position must have a list of technical keywords such as programming languages, tools, frameworks, and technologies extracted from the job position. Keep only technical related keywords.
 
 Example
 Position 35
@@ -184,4 +184,4 @@ Offerings
 - Work Model: Remote
 - Area: Energy
 
-Considering these definitions and the example above, evaluate the last 10 positions of the attached file and a list containing the respective Qualifications, Knowledge and Skills, Responsibilities and Offerings, and the list of keywords. 
+Considering these definitions and the example above, evaluate the first 20 positions of the attached file and create a list containing the respective Qualifications, Knowledge and Skills, Responsibilities and Offerings, and the list of keywords. 
