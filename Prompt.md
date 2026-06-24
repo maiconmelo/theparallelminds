@@ -162,9 +162,7 @@ Concerning **Offerings** (O), each job position is expressed into four aspects:
 - Not mentioned
 
 #### Location
-- Europe
-- Asia-Pacific
-- United States
+- Country
 - Global
 - Not mentioned
 
@@ -199,7 +197,7 @@ Position 35
 - Activity: Support users, Often
 
 ## Offerings
-- Location: Europe
+- Location: India
 - Compensation: Not mentioned
 - Work Model: Remote
 - Area: Energy
