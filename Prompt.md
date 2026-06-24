@@ -1,26 +1,32 @@
 
+# Factors 
+
 Each job position must be described in terms of four **factors**:
 
-Q- Qualifications (what the candidate must have)
+- Q: Qualifications (what the candidate must have)
 
-K- Knowledge and Skills (what the candidate must bring)
+- K: Knowledge and Skills (what the candidate must bring)
 
-R- Responsibilities (what the candidate will do)
+- R: Responsibilities (what the candidate will do)
 
-O- Offerings (what the candidate will get)
+- O: Offerings (what the candidate will get)
 
-Concerning **Qualifications** (Q), each job position is expressed into three aspects (Experience, Formation, and Certification), where each aspect is classified within five exigence levels.
+## Qualifications 
 
-Classifier
-Exigence Levels
+Concerning **Qualifications** (Q), each job position is expressed into three aspects (Experience, Formation, and Certification), where each aspect is classified within five Exigence Levels.
+
+### Classifier
+
+#### Exigence Levels
 - Required
 - Preferred
 - Desired
 - Distinctive
 - Not mentioned
 
-Aspects
-Experience
+### Aspects
+
+#### Experience
 - Entry: 0 to 2 years
 - Mid-level: 3 to 5 years
 - Senior: 5 to 10 years
@@ -28,14 +34,14 @@ Experience
 - Distinguished: more than 15 years
 - Not mentioned
 
-Formation
+#### Formation
 - Experience replacement
 - Bachelor
 - Master
 - Doctoral
 - Not mentioned
 
-Certification
+#### Certification
 - Security
 - Compliance
 - HPC
@@ -45,24 +51,27 @@ Certification
 - IT
 - Not mentioned
 
+## Knowledge and Skills 
+
 Concerning **Knowledge and Skills** (K), each job position is expressed into three aspects (HPC, IT and Human-centric), where all aspects are classified within five Exigence Levels, and HPC and IT are also classified into three Expertise Levels.
 
-Classifiers
+### Classifiers
 
-Exigence Levels
+#### Exigence Levels
 - Required
 - Preferred
 - Desired
 - Distinctive
 - Not mentioned
 
-Expertise Levels
+#### Expertise Levels
 - Familiar
 - Working
 - Expert
 
-Aspects
-HPC
+### Aspects
+
+#### HPC
 - Job Scheduling
 - Parallel Computing
 - Parallel Filesystems
@@ -72,7 +81,7 @@ HPC
 - Performance Tuning
 - AI Integration
 
-IT
+#### IT
 - Linux System Administration
 - DevOps Pipeline
 - Infrastructure as Code
@@ -86,7 +95,7 @@ IT
 - Scripting
 - Storage
 
-Human-centric
+#### Human-centric
 - Communication
 - Collaboration
 - Problem-Solving
@@ -99,19 +108,22 @@ Human-centric
 - Project Management
 - Resilience
 
+## Responsibilities 
+
 Concerning **Reponsabilities** (R), each job position is expressed in just one aspect (Activity) and classified accordingly to Frequency Level:
 
-Classifier
-Frequency Levels  
+### Classifier
+#### Frequency Levels  
 - Usually
 - Often
 - Sometimes
 - Ocasionally
 - Not mentioned 
 
-Aspect
-Activity
+### Aspect
+#### Activity
 - Design architecture
+- Define strategy
 - Deploy infrastructure
 - Operate infrastructure
 - Optimize performance
@@ -127,9 +139,11 @@ Activity
 - Document solutions
 - Share knowledge
 
+## Offerings 
 Concerning **Offerings** (O), each job position is expressed into four aspects:
 
-Area
+### Aspects 
+#### Area
 - Semiconductor Manufacturers
 - Cloud Providers
 - Government
@@ -141,47 +155,54 @@ Area
 - Energy
 - Not mentioned
 
-Work model
+#### Work model
 - Onsite
 - Remote
 - Hybrid
 - Not mentioned
 
-Location
+#### Location
 - Europe
 - Asia-Pacific
 - United States
 - Global
 - Not mentioned
 
-Compensation
+#### Compensation
 - Salary
 - Not mentioned
 
+# Keywords 
+
 Besides the four factors (Q, K, R, O) and their corresponding aspects, each position must have a list of technical keywords such as programming languages, tools, frameworks, and technologies extracted from the job position. Keep only technical related keywords.
 
-Example
+# Example 
 Position 35
-Qualifications
+
+## Qualifications
 - Experience: Mid-level, Required
 - Formation: Bachelor, Required
 - Formation: Master, Distinctive
 - Certification: GPU, Desirable
 - Certification: Linux, Required
-Knowledge and Skills
+
+## Knowledge and Skills
 - HPC: Job Scheduling, Required, Working
 - HPC: Parallel Filesystem, Desirable, Working
 - HPC: Clusters Management, Required, Familiar
 - IT: Linux, Required, Expert
 - IT: Cloud Computing, Desirable, Working
 - Human-centric: Problem Solving, Required
-Responsibilities
+
+## Responsibilities
 - Activity: Design architecture, Sporadic
 - Activity: Support users, Often
-Offerings
+
+## Offerings
 - Location: Europe
 - Compensation: Not mentioned
 - Work Model: Remote
 - Area: Energy
 
+# Prompt 
 Considering these definitions and the example above, evaluate the first 20 positions of the attached file and create a list containing the respective Qualifications, Knowledge and Skills, Responsibilities and Offerings, and the list of keywords. 
