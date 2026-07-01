@@ -1,7 +1,5 @@
 # HPC Open Positions - Comprehensive Job List
 
-*Collected from LinkedIn - Total unique positions: 188*
-
 ---
 
 ## 1. HPC Infrastructure Solutions Architect -- GPU Platforms
@@ -3909,7 +3907,39 @@ As a member of the GPU AI/HPC Infrastructure team, you will provide leadership i
 
 ## 93. Senior AI and ML HPC Cluster Engineer - NVIDIA (Austin)
 
-[This is the same role as Entry 92, but located in Austin, TX. The description is identical, with only the location changed.]
+NVIDIA has continuously reinvented itself over two decades. Our invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI --- the next era of computing. NVIDIA is a "learning machine" that constantly evolves by adapting to new opportunities that are hard to solve, that only we can tackle, and that matter to the world. This is our life's work, to amplify human imagination and intelligence. Make the choice to join us today!
+
+As a member of the GPU AI/HPC Infrastructure team, you will provide leadership in the design and implementation of ground breaking GPU compute clusters that run demanding deep learning, high performance computing, and computationally intensive workloads. We seek a technical leader to identify architectural changes and/or completely new approaches for our GPU Compute Clusters. As an expert, you will help us with the strategic challenges we encounter including: compute, networking, and storage design for large scale, high performance workloads, effective resource utilization in a heterogeneous compute environment, evolving our private/public cloud strategy, capacity modeling, and growth planning across our global computing environment.
+
+**What You'll Be Doing**
+- Provide leadership and strategic guidance on the management of large-scale HPC systems including the deployment of compute, networking, and storage.
+- Develop and improve our ecosystem around GPU-accelerated computing including developing scalable automation solutions
+- Build and maintain AI and ML heterogeneous clusters on-premises and in the cloud
+- Create and cultivate customer and cross-team relationships to reliably sustain the clusters and meet user evolving user needs
+- Support our researchers to run their workloads including performance analysis and optimizations
+- Conduct root cause analysis and suggest corrective action Proactively find and fix issues before they occur
+
+**What We Need To See**
+- Bachelor's degree in Computer Science, Electrical Engineering or related field or equivalent experience
+- Minimum 5+ years of experience designing and operating large scale compute infrastructure
+- Experience with AI/HPC advanced job schedulers, such as Slurm, K8s, PBS, RTDA or LSF
+- Proficient in administering Centos/RHEL and/or Ubuntu Linux distributions
+- Solid understanding of cluster configuration managements tools such as Ansible, Puppet, Salt
+- In depth understating of container technologies like Docker, Singularity, Podman, Shifter, Charliecloud
+- Proficiency in Python programming and bash scripting
+- Applied experience with AI/HPC workflows that use MPI
+- Experience analyzing and tuning performance for a variety of AI/HPC workloads.
+- Passion for continual learning and staying ahead of emerging technologies and effective approaches in the HPC and AI/ML infrastructure fields.
+
+**Ways To Stand Out From The Crowd**
+- Background with NVIDIA GPUs, CUDA Programming, NCCL and MLPerf benchmarking
+- Experience with Machine Learning and Deep Learning concepts, algorithms and models
+- Familiarity with InfiniBand with IPoIB and RDMA
+- Understanding of fast, distributed storage systems like Lustre and GPFS for AI/HPC workloads
+- Familiarity with deep learning frameworks like PyTorch and TensorFlow
+
+**Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 152,000 USD - 241,500 USD for Level 3, and 184,000 USD - 287,500 USD for Level 4.**
+
 
 ---
 
@@ -4232,7 +4262,35 @@ You will work with the latest Accelerated computing and Deep Learning software a
 
 ## 101. Senior HPC Storage Engineer - NVIDIA (Austin)
 
-[This is the same role as Entry 102, but located in Austin, TX. The description is identical, with only the location changed.]
+NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It's a unique legacy of innovation that's fueled by great technology---and amazing people. Today, we're tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what's never been done before takes vision, innovation, and the world's best talent. As an NVIDIAN, you'll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.
+
+As a member of the HW Infrastructure Storage Strategy team, you will provide leadership in the research, design and implementation of ground breaking fast storage solutions to enable runs of demanding high performance computing, and computationally intensive workloads. We seek an expert to identify architectural changes encompassing file, block, and object storage, to cater to the scaling and performance requirements of an expanding cloud infrastructure. As an expert, you will help us with the next-gen storage solutions strategic challenges we encounter with storage design for large scale, high performance workloads, evolving our private/public cloud strategy, capacity modelling, and growth planning across our global computing environment.
+
+**What You'll Be Doing**
+- Research and analyze existing internal distributed storage services.
+- Research, design, and implement scalable, next-gen distributed storage services for HPC workloads, optimizing both performance and cost-effectiveness to meet NVIDIA's growing infrastructure needs
+- Develop tooling to automate management of large-scale infrastructure environments, to automate operational monitoring and alerting, and to enable self-service consumption of resources.
+- Detail the general procedures and practices, perform technology evaluations, related to distributed file systems.
+- Collaborate across teams to better understand developers' workflows and capture their infrastructure requirements.
+- Influence and guide methodologies for building, testing, and deploying applications to ensure efficient performance and resource utilization.
+- Supporting our researchers to run their flows on our clusters including performance analysis and optimizations of deep learning workflows
+- Root cause analysis and suggest corrective action for problems large and small scales
+
+**What We Need To See**
+- Bachelor's degree in Computer Science, Electrical Engineering or related field or equivalent experience.
+- 8+ years of experience designing and/or operating large scale storage infrastructure.
+- Experience analyzing and tuning storage performance for a variety of workloads.
+- Proficient in Centos/RHEL and/or Ubuntu Linux distros including Python programming and bash scripting
+- In depth understanding of container technologies like Docker, Enroot
+
+**Ways To Stand Out From The Crowd**
+- Distributed Storage Expertise: Extensive experience with parallel and distributed filesystems (Ceph, Weka.io, Vast, Lustre, GPFS) and Linux storage kernel development.
+- GPU & AI Infrastructure: Proficient with NVIDIA GPUs, CUDA programming, and NCCL, including performance benchmarking via MLPerf.
+- Hardware & Storage Engineering: Deep familiarity with storage hardware (HDDs, SSDs, NVMe), enclosures, and specialized appliances like Network Appliance.
+- Advanced Networking: Strong background in Software Defined Networking (SDN) and high-performance networking for AI/HPC clusters.
+- Deep Learning Frameworks: Practical experience applying industry-standard frameworks, specifically PyTorch and TensorFlow.
+
+**Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 184,000 USD - 287,500 USD for Level 4, and 224,000 USD - 356,500 USD for Level 5.**
 
 ---
 
@@ -4545,7 +4603,47 @@ As a member of the Hardware Infrastructure Farm team, you will provide leadershi
 
 ## 111. Systems Engineer, HPC (US & Canada) - Mistral (New York)
 
-[This is the same role as Entry 2, but located in New York, NY. The description is identical, with only the location changed.]
+**Location:** Remote with some travel required to US and Canada
+
+**Contract:** Initial 3-6 months+ with opportunity for extensions
+
+**Key Skills & Responsibilities:**
+- Strong Linux systems engineering (RHEL/Rocky/SLES)
+- Deep experience with HPC schedulers: PBS Professional, Torque, Slurm, or similar
+- Scripting and automation: Python, Bash (required), Go or Rust (nice to have)
+- Experience with distributed systems and cluster operations
+
+**HPC-Specific Experience:**
+- MPI workloads (OpenMPI, MPICH)
+- GPU scheduling (NVIDIA stack, MIG/MPS concepts)
+- Parallel file systems (Lustre strongly preferred)
+- Understanding of job scheduling concepts: Queues, priorities, backfill, fairshare, reservations
+
+**Infrastructure & Integration:**
+- Configuration management (Ansible, Puppet, or similar)
+- CI/CD pipelines for infrastructure
+- APIs and service integration patterns
+- Exposure to cloud platforms and hybrid HPC models
+- Built custom PBS hooks or scheduler extensions in production
+- Designed hybrid HPC + Kubernetes or cloud bursting architectures
+- Solved real scaling problems (10k+ cores, multi-petabyte storage)
+- Experience with security/compliance in HPC environments (STIGs, NIST, etc.)
+- Strong debugging instincts across system layers (network → storage → scheduler)
+
+**Scheduler Integration & Automation:**
+- Build and maintain integrations with PBS Professional and/or OpenPBS
+- Develop hooks, prolog/epilog scripts, and custom scheduling logic
+- Automate job lifecycle workflows (submission → execution → teardown)
+- Extend scheduler capabilities via APIs, CLI tooling, and event-driven systems
+
+**Infrastructure Engineering:**
+- Design and manage HPC environments (bare metal, VM, hybrid cloud)
+- Integrate scheduler with: High-performance storage (Lustre, NFS, object stores), Networking (InfiniBand, Ethernet fabrics), Identity systems (LDAP, Kerberos, RBAC)
+- Optimize node provisioning, boot workflows, and image management
+
+**Platform Integrations:**
+- Bridge HPC schedulers with modern platforms: Kubernetes (e.g., batch offload, hybrid scheduling), MLOps stacks (e.g., ClearML, Kubeflow), Cloud bursting workflows (AWS, Azure, GCP)
+- Build tooling for data locality, environment parity, and job portability
 
 ---
 
@@ -4591,9 +4689,50 @@ This is a fully remote, flexible contract role for a seasoned systems engineer w
 
 ## 113. HPC Specialist Architect - Energy Industry - AWS (Spain)
 
-[This is the same role as Entry 58, but located in Madrid, Spain. The description is identical, with only the location changed.]
+Location: Spain
+
+AWS is looking for a HPC Specialist Architect for the Energy & Utilities Business Unit, who will be a subject matter expert helping customers design solutions that leverage our HPC services. You will work closely with customers in various geographies to enable large-scale customer use cases and drive the adoption of AWS for HPC. You will interact with other Solutions Architects in the field, providing guidance on their customer engagements, and you will develop white papers, blogs, reference implementations, and presentations to enable customers and partners to fully leverage HPC services on AWS. You will also create field enablement materials for the broader AWS architect population, to help them understand how to integrate AWS solutions into customer architectures. You drive effective feedback gathering from customers, and you distill and translate that feedback into clear business and technical requirements for product and engineering teams to review. You sponsor the creation of new products and features from these requirements, working closely with product and engineering teams to minimize requirements drift from your customer's needs.
+
+**Key job responsibilities**
+- Customer Advisor- You will interact closely with our customers Implement and deploy state of the art HPC solutions. You will build prototypes, PoCs, and explore new solutions.
+- Thought Leadership -- Evangelize AWS HPC services and share best practices through forums such as AWS blogs, white-papers, reference architectures and public-speaking events such as AWS Summit, AWS re:Invent, etc.
+- Create field enablement materials for the broader SA population, to help them understand how to integrate HPC solutions into customer architectures.
+- Act as a technical liaison between customers and the AWS product teams to provide customer driven product improvement feedback.
+- Generally, travel up to 25% could be included and will be discussed at the interview stage.
+
+**About The Team**
+
+*Diverse Experiences*
+AWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn't followed a traditional path, or includes alternative experiences, don't let it stop you from applying.
+
+*Why AWS?*
+Amazon Web Services (AWS) is the world's most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating --- that's why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.
+
+*Inclusive Team Culture*
+AWS values curiosity and connection. Our employee-led and company-sponsored affinity groups promote inclusion and empower our people to take pride in what makes us unique. Our inclusion events foster stronger, more collaborative teams. Our continual innovation is fueled by the bold ideas, fresh perspectives, and passionate voices our teams bring to everything we do.
+
+*Mentorship & Career Growth*
+We're continuously raising our performance bar as we strive to become Earth's Best Employer. That's why you'll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+
+*Work/Life Balance*
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there's nothing we can't achieve.
+
+**Basic Qualifications**
+- Bachelor's degree in computer science, engineering, mathematics or equivalent
+- Development experience with HPC frameworks for workloads in a domain such as oil and gas, automotive / aerospace, financial services or pharmaceuticals. Proficient in one or more of the following programming languages: C++, Python, Cuda, or Bash.
+- Experience in architecting an HPC platform with scheduling middleware (e.g. Slurm, Torque, Symphony or GridServer) and in deployment, tuning and management of HPC technologies in a multi-user environment.
+- High level understanding of the underlying infrastructure platform and resources to run HPC services. Ability and willingness to develop AWS technical proficiency within the first 6 months of employment.
+- Experience communicating across technical and non-technical audiences, including executive level stakeholders or clients. Proven ability to understand HPC user requirements and map these to solutions.
+
+**Preferred Qualifications**
+- Master's degree or equivalent in computer science, engineering, mathematics or equivalent
+- Performance optimization experience with computationally intensive applications, particularly in oil and gas subsurface applications, reservoir simulation, and seismic data processing.
+- Expertise in parallel programming models for both loosely and tightly coupled applications, including proficiency with MPI (OpenMPI, MPICH), OpenMP, and hybrid parallelization strategies, and GPU programming using CUDA, OpenACC, or similar technologies, with demonstrated ability to optimize applications for GPU architectures.
+- Significant experience in infrastructure architecture and networking. Experience with infrastructure as code technology such as Cloud Formation, CDK or equivalent.
+- AWS technical proficiency - have architected and implemented HPC solutions on AWS.
 
 ---
+
 
 ## 114. HPC and Storage Technology Consultant - HPE (Dubai)
 
@@ -4637,25 +4776,75 @@ Provide technology consulting to external customers and internal project teams. 
 
 ## 115. HPC and Storage Technology Consultant - HPE (Abu Dhabi)
 
-[This is the same role as Entry 114, but located in Abu Dhabi, UAE. The description is identical, with only the location changed.]
+**This role has been designed as ''Onsite' with an expectation that you will primarily work from an HPE partner/customer office.**
 
----
+**Job Description**
 
-## 116. HPC and Storage Technology Consultant - HPE (Abu Dhabi - Additional)
+*Job Family Definition:*
+Provide technology consulting to external customers and internal project teams. Responsible for providing technical support and/or leadership in the creation and delivery of technology solutions designed to meet customers' business needs and, consequently, for understanding customers' businesses. As trusted advisor create and maintain effective customer relationships so as to insure customer satisfaction. Maintain knowledge of leading edge technologies and industry/market domain knowledge. Actively contribute to the company's solutions portfolio by providing information ranging from technical knowledge to methodologies based on experience gained from customer projects. Shape technical direction and technical strategies within the organization and for external customers. Accountable for consistent and significant chargeability levels (or expense relief for internal project teams) and for assisting in meeting or exceeding revenue and customer satisfaction goals. Contribute to organization's profitability by generating and cultivating new business opportunities and by providing technical support for deal proposal development.
 
-[This is the same role as Entry 114, but located in Abu Dhabi, UAE. The description is identical, with only the location changed.]
+*Management Level Definition:*
+- Contributions impact technical components of HPE products, solutions, or services regularly and sustainable. Applies advanced subject matter knowledge to solve complex business issues and is regarded as a subject matter expert. Provides expertise and partnership to functional and technical project teams and may participate in cross-functional initiatives. Exercises significant independent judgment to determine best method for achieving objectives. May provide team leadership and mentoring to others.
 
----
+- Responsibilities:
+  - In this amazing role you will cover the support and delivery of high-end HPC solutions for our customers. You'll be part of a team of HPC experts and will be working under minimal supervision.
+  - Apply your technical background and knowledge of industry trends to Support and Deliver for the account HPC services,
+  - including both hardware and software, for massively parallel (MPP) supercomputer systems, clusters and storage systems on a 24 X 7 Basis and willing to be on standby and available when needed.
+  - Support the pre-sales team in scoping & sizing the HPC services when required.
+  - You will be dedicated to a key account managing Day to Day HPC Support and Maintenance activity as the dedicated account site in UAE-Abu Dhabi.
+  - Analyze, qualify, troubleshoot, resolve the incidents with the right level of autonomy & expertise and coordinate with L2 and L3.
+  - Support issues requiring specialized intervention.
+  - Collaborate with team members, other internal organizations, customers, and third parties (e.g. DDN, Red Hat, Cool IT, Nvidia,...)
+  - Manage the customer relationship, including verbal & written communication.
+  - Research HPC documentation & complete required training to maintain and develop HPC skills.
+  - Must be willing learn new technologies in HPC including Cray EX Liquid cooled systems and NVL72 as the core technologies to support which will be provided on the job and professional training.
 
-## 117. HPC and Storage Technology Consultant - HPE (Abu Dhabi - Additional)
-
-[This is the same role as Entry 114, but located in Abu Dhabi, UAE. The description is identical, with only the location changed.]
+- If you are..
+  - Good at partnering, innovating, and making things happen? Good start, you are aligned to our core values!
+  - If you have these Skills, Expertise, Attitude and Education... Minimum qualifications for the Dedicated Technical Consultant shall be:
+  - Must be an with at least three (4) years of service.
+  - Must hold a Bachelor degree in Computer Science or Engineering.
+  - Knowledge in High Performance Computing technologies and/or enterprise level storage systems, and/or High Performance Computing Application, depending on the intended activities or role.
+  - Experience in Linux/Unix Operating systems.
+  - Experience with HPC Hardware Support or related industries is advantageous.
+  - Experienced in running the day to day operation, hardware break fix and administration of HPC systems at the client site
+  - Act as an advocate for the Customer and their teams is an advantage.
+  - Advanced skills in customer service and customer facing communication
+  - Willing to relocate to the United Arab Emirates.
 
 ---
 
 ## 118. Senior HPC Storage Engineer - NVIDIA (Austin)
 
-[This is the same role as Entry 102, but located in Austin, TX. The description is identical, with only the location changed.]
+NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It's a unique legacy of innovation that's fueled by great technology---and amazing people. Today, we're tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what's never been done before takes vision, innovation, and the world's best talent. As an NVIDIAN, you'll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.
+
+As a member of the HW Infrastructure Storage Strategy team, you will provide leadership in the research, design and implementation of ground breaking fast storage solutions to enable runs of demanding high performance computing, and computationally intensive workloads. We seek an expert to identify architectural changes encompassing file, block, and object storage, to cater to the scaling and performance requirements of an expanding cloud infrastructure. As an expert, you will help us with the next-gen storage solutions strategic challenges we encounter with storage design for large scale, high performance workloads, evolving our private/public cloud strategy, capacity modelling, and growth planning across our global computing environment.
+
+**What You'll Be Doing**
+- Research and analyze existing internal distributed storage services.
+- Research, design, and implement scalable, next-gen distributed storage services for HPC workloads, optimizing both performance and cost-effectiveness to meet NVIDIA's growing infrastructure needs
+- Develop tooling to automate management of large-scale infrastructure environments, to automate operational monitoring and alerting, and to enable self-service consumption of resources.
+- Detail the general procedures and practices, perform technology evaluations, related to distributed file systems.
+- Collaborate across teams to better understand developers' workflows and capture their infrastructure requirements.
+- Influence and guide methodologies for building, testing, and deploying applications to ensure efficient performance and resource utilization.
+- Supporting our researchers to run their flows on our clusters including performance analysis and optimizations of deep learning workflows
+- Root cause analysis and suggest corrective action for problems large and small scales
+
+**What We Need To See**
+- Bachelor's degree in Computer Science, Electrical Engineering or related field or equivalent experience.
+- 8+ years of experience designing and/or operating large scale storage infrastructure.
+- Experience analyzing and tuning storage performance for a variety of workloads.
+- Proficient in Centos/RHEL and/or Ubuntu Linux distros including Python programming and bash scripting
+- In depth understanding of container technologies like Docker, Enroot
+
+**Ways To Stand Out From The Crowd**
+- Distributed Storage Expertise: Extensive experience with parallel and distributed filesystems (Ceph, Weka.io, Vast, Lustre, GPFS) and Linux storage kernel development.
+- GPU & AI Infrastructure: Proficient with NVIDIA GPUs, CUDA programming, and NCCL, including performance benchmarking via MLPerf.
+- Hardware & Storage Engineering: Deep familiarity with storage hardware (HDDs, SSDs, NVMe), enclosures, and specialized appliances like Network Appliance.
+- Advanced Networking: Strong background in Software Defined Networking (SDN) and high-performance networking for AI/HPC clusters.
+- Deep Learning Frameworks: Practical experience applying industry-standard frameworks, specifically PyTorch and TensorFlow.
+
+**Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 184,000 USD - 287,500 USD for Level 4, and 224,000 USD - 356,500 USD for Level 5.**
 
 ---
 
@@ -4771,7 +4960,31 @@ Generative AI is revolutionizing. Ranging from supercomputing, higher education,
 
 ## 122. Solutions Architect, AI for Science and HPC - NVIDIA (Tokyo)
 
-[This is the same role as Entry 121, but located in Tokyo, Japan. The description is identical, with only the location changed.]
+**Location:** Tokyo (Onsite)
+
+Generative AI is revolutionizing. Ranging from supercomputing, higher education, manufacturing, semiconductors, energy storage, climate science and agriculture. The advent of AI models and tools such as ClimaX, GenSLM, MatterGen, etc are some exemplars of adapting AI for scientific research and discoveries. We are now looking for a Senior Solution Architect to work with leading science and research institutes in Japan, promoting the adoption of GPU-accelerated computing solutions---including machine learning, deep learning, and especially generative AI for scientific discovery and research.
+
+**What You'll Be Doing**
+- Exploring the latest advancement in GenAI (model training, fine tuning and customization), while supporting building AI for Scientific use cases.
+- Lead research collaboration working closely with internal technical stakeholders, from Headquarters to Worldwide.
+- Enabling NVIDIA strategic customers to build AI solutions using accelerated computing stack including NIMs and NeMo microservices.
+- Collaborate with developers and onboard them to NVIDIA AI platforms and services by providing deep technical guidance.
+- Drive conversations, build architectures and demos to accelerate the customer AI journey based on NVIDIA products, and work closely with our business development and marketing teams.
+- Create or run Proofs of Concept and demos that require presentation skills, the explanation of complex topics, and Python coding to execute data pipelines, train ML/DL models, and deploy them on container-based orchestrators.
+
+**What We Need To See**
+- BS, MS or PhD in Computer Science, Engineering, Mathematics, or Physics
+- Excellent verbal, written communication, and technical presentation skills in Japanese. Business level English communication is also a requirement.
+- 5+ years of industry or academic experience related to Generative AI or Deep Learning
+- Strong coding development and debugging skills. Including experience with Python, C/C++, Bash, and Linux
+- Ability to multitask effectively in a dynamic environment, strong analytical and problem-solving skills!
+- Proactive and have a strong desire to share knowledge with clients, partners and co-workers
+
+**Ways To Stand Out From The Crowd**
+- Significant technical proficiency in high-performance computing, AI/ML and/or material discovery, climate, bio science and related field.
+- Experience leading technical collaborations with engineering and product teams - including architectural design, code reviews, technical mentorship, and delivery of technical talks or workshops
+- Expertise in deploying large-scale training and inferencing pipeline
+- A deep understanding of the latest generative AI or deep learning methods and algorithms
 
 ---
 
@@ -4842,7 +5055,33 @@ We are looking for an outstanding hands-on architect/engineer for a Senior HPC a
 
 ## 125. Senior Software Architect - Deep Learning and HPC Communications - NVIDIA (Israel)
 
-[This is the same role as Entry 123, but located in Raanana, Israel. The description is identical, with only the location changed.]
+NVIDIA is leading groundbreaking developments in Artificial Intelligence, High Performance Computing and Visualization. The GPU -- our invention -- serves as the visual cortex of modern computers and is at the heart of our products and services. Our work opens up new universes to explore, enables groundbreaking creativity and discovery, and powers inventions that were once considered science fiction, including artificial intelligence to autonomous cars. We are the GPU Communications Libraries and Networking team at NVIDIA. We build communication libraries like NCCL, NVSHMEM, and UCX that are crucial for scaling Deep Learning and HPC. We're seeking a Senior Software Architect to help co-design next-gen data center platforms and scalable communications software.
+
+DL and HPC applications have a huge compute demands and already run at scales of up to tens of thousands of GPUs. GPUs are connected with high-speed interconnects (e.g. NVLink, PCIe) within a node and with high-speed networking (e.g. InfiniBand, Ethernet) across nodes. Efficient and fast communication between GPUs directly impacts end-to-end application performance. This impact continues to grow with the increasing scale of next generation systems. This is an outstanding opportunity to advance the state-of-the-art, break performance barriers, and deliver platforms the world has never seen before. Are you ready to build the new and innovative technologies that will help realize NVIDIA's vision?
+
+**What You Will Be Doing**
+- Investigate opportunities to improve communication performance by identifying bottlenecks in today's systems.
+- Design and implement new communication technologies to accelerate AI and HPC workloads.
+- Explore innovative solutions in HW and SW for our next generation platforms as part of co-design efforts involving GPU, Networking, and SW architects.
+- Build proofs-of-concept, conduct experiments, and perform quantitive modeling to evaluate and drive new innovations.
+- Use simulation to explore performance of large GPU clusters (think scales of 100s of 1000s of GPUs)
+
+**What We Need To See**
+- M.S./Ph.D. degree in CS/CE or equivalent experience.
+- 5+ years of relevant experience.
+- Excellent C/C++ programming and debugging skills.
+- Experience with parallel programming models (MPI, SHMEM) and at least one communication runtime (MPI, NCCL, NVSHMEM, OpenSHMEM, UCX, UCC).
+- Deep understanding of operating systems, computer and system architecture.
+- Solid in fundamentals of network architecture, topology, algorithms, and communication scaling relevant to AI and HPC workloads.
+- Strong experience with Linux.
+- Ability and flexibility to work and communicate effectively in a multi-national, multi-time-zone corporate environment.
+
+**Ways To Stand Out From The Crowd**
+- Expertise in related technology and passion for what you do. Experience with CUDA programming and NVIDIA GPUs. Knowledge of high-performance networks like InfiniBand, RoCE, NVLink, etc.
+- Experience with Deep Learning Frameworks such PyTorch, TensorFlow, etc. Knowledge of deep learning parallelisms and mapping to the communication subsystem. Experience with HPC applications.
+- Strong collaborative and interpersonal skills and a proven track record of effectively guiding and influencing within a dynamic and multi-functional environment.
+
+**Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 184,000 USD - 287,500 USD for Level 4, and 224,000 USD - 356,500 USD for Level 5.**
 
 ---
 
@@ -5232,7 +5471,39 @@ NVIDIA is looking for a talented Performance Research and Analysis Engineer to j
 
 **Location:** Washington, United States (Remote)
 
-[This is the same role as Entry 92, but located in Washington, USA. The description is identical, with only the location changed.]
+NVIDIA has continuously reinvented itself over two decades. Our invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI --- the next era of computing. NVIDIA is a "learning machine" that constantly evolves by adapting to new opportunities that are hard to solve, that only we can tackle, and that matter to the world. This is our life's work, to amplify human imagination and intelligence. Make the choice to join us today!
+
+As a member of the GPU AI/HPC Infrastructure team, you will provide leadership in the design and implementation of ground breaking GPU compute clusters that run demanding deep learning, high performance computing, and computationally intensive workloads. We seek a technical leader to identify architectural changes and/or completely new approaches for our GPU Compute Clusters. As an expert, you will help us with the strategic challenges we encounter including: compute, networking, and storage design for large scale, high performance workloads, effective resource utilization in a heterogeneous compute environment, evolving our private/public cloud strategy, capacity modeling, and growth planning across our global computing environment.
+
+**What You'll Be Doing**
+- Provide leadership and strategic guidance on the management of large-scale HPC systems including the deployment of compute, networking, and storage.
+- Develop and improve our ecosystem around GPU-accelerated computing including developing scalable automation solutions
+- Build and maintain AI and ML heterogeneous clusters on-premises and in the cloud
+- Create and cultivate customer and cross-team relationships to reliably sustain the clusters and meet user evolving user needs
+- Support our researchers to run their workloads including performance analysis and optimizations
+- Conduct root cause analysis and suggest corrective action Proactively find and fix issues before they occur
+
+**What We Need To See**
+- Bachelor's degree in Computer Science, Electrical Engineering or related field or equivalent experience
+- Minimum 5+ years of experience designing and operating large scale compute infrastructure
+- Experience with AI/HPC advanced job schedulers, such as Slurm, K8s, PBS, RTDA or LSF
+- Proficient in administering Centos/RHEL and/or Ubuntu Linux distributions
+- Solid understanding of cluster configuration managements tools such as Ansible, Puppet, Salt
+- In depth understating of container technologies like Docker, Singularity, Podman, Shifter, Charliecloud
+- Proficiency in Python programming and bash scripting
+- Applied experience with AI/HPC workflows that use MPI
+- Experience analyzing and tuning performance for a variety of AI/HPC workloads.
+- Passion for continual learning and staying ahead of emerging technologies and effective approaches in the HPC and AI/ML infrastructure fields.
+
+**Ways To Stand Out From The Crowd**
+- Background with NVIDIA GPUs, CUDA Programming, NCCL and MLPerf benchmarking
+- Experience with Machine Learning and Deep Learning concepts, algorithms and models
+- Familiarity with InfiniBand with IPoIB and RDMA
+- Understanding of fast, distributed storage systems like Lustre and GPFS for AI/HPC workloads
+- Familiarity with deep learning frameworks like PyTorch and TensorFlow
+
+**Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 152,000 USD - 241,500 USD for Level 3, and 184,000 USD - 287,500 USD for Level 4.**
+
 
 ---
 
@@ -5332,7 +5603,41 @@ NVIDIA is looking for a Senior AI/HPC Engineer to join its infrastructure Specia
 
 **Location:** United Kingdom (Remote)
 
-[This is the same role as Entry 129, but located in the United Kingdom. The description is identical, with only the location changed.]
+This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior HPC Cluster Engineer based in Switzerland.
+
+This role sits at the core of a next-generation AI cloud infrastructure environment, focused on building and optimizing large-scale high-performance computing systems. You will work on complex GPU and InfiniBand cluster architectures that power AI and HPC workloads at scale. The position involves deep system-level engineering, performance tuning, and hands-on troubleshooting across distributed infrastructure. You will contribute directly to improving reliability, efficiency, and scalability of compute platforms used for advanced AI and data-intensive applications. Working in a highly technical engineering culture, you will collaborate with experts across systems, networking, and virtualization. This is a high-impact role where your work directly influences the performance of large-scale cloud and AI workloads.
+
+**Accountabilities**
+
+Own the performance optimization and reliability of large-scale GPU clusters and InfiniBand networking environments supporting HPC workloads:
+- Tune and optimize GPU cluster performance and InfiniBand fabric efficiency to ensure high throughput and low-latency computing.
+- Diagnose, troubleshoot, and resolve complex system-level issues across GPU, network, and compute layers.
+- Integrate and validate new hardware components into existing HPC infrastructure, including support for GPUs and related accelerators.
+- Work across virtualization and orchestration layers (KVM/QEMU, Kubernetes) to ensure seamless hardware utilization and deployment.
+- Develop and improve automation for monitoring, fault detection, and proactive remediation in distributed compute environments.
+- Configure, manage, and maintain GPU devices, PCIe systems, and InfiniBand networks to ensure stability and scalability.
+
+**Requirements**
+
+We are looking for a highly experienced systems engineer with strong expertise in HPC and low-level infrastructure:
+- 5+ years of experience in system-level software engineering with a focus on performance, scalability, or infrastructure optimization.
+- 3+ years of hands-on experience with Linux systems administration, debugging, and performance tuning.
+- Strong understanding of server and hardware architecture including PCIe, NICs, GPUs, and Linux kernel-level behavior.
+- Proficiency in C, C++, Go, or Python for systems or performance-oriented development.
+- Experience working with distributed or HPC environments and solving complex infrastructure challenges.
+- Strong analytical and problem-solving skills with the ability to work on deep technical issues independently.
+- Familiarity with GPU clusters, InfiniBand networking, and large-scale compute systems is highly desirable.
+- Experience with KVM/QEMU or containerized orchestration environments is a plus.
+- Exposure to distributed computing frameworks or libraries such as MPI or NCCL is advantageous.
+
+**Benefits**
+- Competitive compensation package.
+- Career development and continuous learning opportunities in advanced AI and HPC systems.
+- Flexible working arrangements and remote-friendly culture across Europe.
+- Opportunity to work on cutting-edge AI infrastructure and large-scale distributed systems.
+- Collaborative engineering environment with high technical ownership.
+- Exposure to international teams and world-class engineering challenges.
+
 
 ---
 
@@ -5371,7 +5676,31 @@ NVIDIA has become the platform upon which every new AI-powered application is bu
 
 **Location:** Yokneam Ilit, Distrito Norte, Israel (Presencial)
 
-[This is the same role as Entry 103, but located in Yokneam Ilit, Israel. The description is identical, with only the location changed.]
+NVIDIA is looking for an HPC and AI Data Center Engineer to join the networking cloud solutions HPC/AI Infrastructure team. We are focused on building supercomputers and HPC clusters based on groundbreaking technologies. We are looking for a lab manager, be a key player to the most exciting computing hardware and software to contribute to the latest breakthroughs in artificial intelligence and GPU computing. Take part of building large-scale compute and Deep Learning software and hardware platforms, work together and support many scientific researchers, developers, and customers to craft improved workflows and develop new, leading differentiated solutions.
+
+**What You Will Be Doing**
+- Plan and build complex cluster and supercomputers in various of data center and labs
+- Rack stack and cable management to ensure efficient use of space and easy maintenance
+- Ensure data centers and labs power and cooling efficiency while optimizing rack space utilization
+- Data centers and labs daily operation and support
+- Installations for variety of infrastructure and solutions - Cloud, VMs, Storage, Network, HPC and AI
+- Perform troubleshooting - network, optic cabling, bare metal, operating system.
+- Support Research & Development activities
+
+**What We Need To See**
+- MCSE or MCITP/CCNA certification
+- 3+ years of experience as lab manager
+- Experience in supporting large and complex data centers
+- Proven hands-on experience in Linux troubleshooting with good problem identification, resolution and solving skills.
+- In depth knowledge in Linux & Windows Core Services: DHCP, DNS, NIS, AD, etc.
+- Team Work, Service oriented, organized
+
+**Ways To Stand Out From The Crowd**
+- Scripting experience in Bash and/or Python
+- Experience with configuration managements tools known in the community (e.g. Ansible, puppet)
+- CI & Known Job schedulers tools (e.g. Jenkins, SLURM)
+- Virtualization: KVM / VMware / Hyper-V
+- Experience with L2 & L3 network protocols
 
 ---
 
@@ -5379,9 +5708,78 @@ NVIDIA has become the platform upon which every new AI-powered application is bu
 
 **Location:** Coventry, England, United Kingdom (Presencial)
 
+**About The Role**
+
+**Informal Queries**
+- For informal queries about the role, please contact Miguel Afonso Oliveira (SCRTP Facilities Manager) at miguel-afonso.oliveira@warwick.ac.uk.
+
+The University of Warwick recognizes the importance of Research Infrastructure by providing a specialized department, the Research Technology Platforms (RTP) to hosts these activities and provide adequate career paths to all research infrastructure professionals.
+
+The Scientific Computing Research Technology Platform (SCRTP) at the University of Warwick is seeking to appoint a permanent Senior HPC Infrastructure Engineer staff to strengthen existing infrastructure team.
+
+The SCRTP is a well-established research facility at the University, providing advanced research computing support to departments across campus. This includes provision of a managed Linux desktop environment for research computing, large scale data storage facilities, and high-performance computing (HPC). We have a growing staff of Infrastructure Engineers, Research Software Specialists, Linux/Network/Storage Administrators and RSEs.
+
+Our Infrastructure team provides an expertise pool in scientific hardware deployments, installations, monitoring, problem solving and problem mitigation. This team underpins all of the activities of the SCRTP and of Computational Research at the University. This post will have a clear strategic position managing the research storage and providing core services via the virtualisation platform.
+
+**About You**
+
+We are seeking an individual with prior experience of scientific computing infrastructure to join our team and engage across all of the areas mentioned. The position is open-ended and will involve a variety of activity in the long-term. Over the first few years this may include (but is not limited to):
+- Development, maintenance and monitoring of our HPC systems and their associated storage systems.
+- Development of tools and analytics to better support our extended research community.
+- Support of our datacentre activities and expansion.
+
+Exact projects and duties will be managed across the SCRTP team to best suit the skills and experience of the recruited individual. The role is well suited to candidates with a research infrastructure background looking to broaden their expertise. It provides an opportunity to create real impact across a range of projects.
+
+**About The Department**
+
+To find out more about the Research Technology Platforms, please visit our website: Research Technology Platforms.
+
+**About The University**
+
+We are a world-leading research-intensive university founded in 1965. We are ranked 74th in the world and 9th in the UK.* Additionally, 92% of our research is rated world-leading or internationally excellent.**
+
+Find out more about us at warwick.ac.uk/about/.
+
+**How to Apply**
+
+CLOSING DEADLINE: Tuesday 23rd June 2026 at 11:55pm (UK Time)
+
+To apply, please click APPLY below and submit your application by the closing deadline.
+
+You will be asked to include a CV and cover letter. Within these documents, please:
+- Outline your employment and education history (including your most recent employment).
+- Outline the reasons for your interest in this position.
+- Demonstrate how you meet the requirements of the role with clear reference to each of the essential and desirable criteria in the Job Description (PDF attached below).
+- Interview Date: July 2026
+- Start Date: To be confirmed
+
+Applications must be submitted by the closing deadline -- you will not be able to submit an application form even if you opened it before the stated deadline. Only applications submitted through our Careers Portal will be considered.
+
+You are welcome to include any careers breaks you may have taken (e.g. parental/caring/long-term sick leave).
+
+**What we Offer**
+
+We Provide a Comprehensive Range Of Benefits, Including:
+- An attractive pension scheme.
+- 30 days holiday plus University Christmas closure.
+- Generous parental/adoption leave policy.
+- Onsite childcare facilities.
+- Excellent learning and development opportunities.
+
+We recognise the importance of a healthy work/life balance and offer access to flexible working arrangements. For more information, see here.
+
+We are proud to be a Living Wage employer.
+
+**Our Commitment to Inclusion**
+
+To find out more about our commitments to equality, diversity, and inclusion, please see: Our Commitments | University of Warwick
+
+**Right to Work in the UK**
+
+If you do not yet have the right to work in the UK and/or are seeking sponsorship for a Skilled Worker visa, please follow this link which contains further information about obtaining the right to work in the UK.
+
 **Salary Range:** £47,389 - £56,535 per year
 
-[This is the same role as Entry 86. The description is identical.]
 
 ---
 
@@ -5772,7 +6170,29 @@ We are looking for a dynamic, proactive and talented person to join our team and
 
 **Location:** Beijing, Pequim, China (Presencial)
 
-[This is the same role as Entry 134, but located in Beijing, China. The description is identical, with only the location changed.]
+NVIDIA is looking for a talented Performance Research and Analysis Engineer to join our Performance group. The ideal candidate will profile and analyze AI workloads on large GPUs and CPUs scale clusters for distributed Deep Learning LLM training and inference focusing at the communication patterns, collectives communication, RDMA, networking and system performance. You will work and interact with many types of HW platforms such as HCAs, Switches, CPUs, GPUs, Systems and also with various SW layers and features. You will experience with simulators and developing performance analysis tools and methodologies to dive deeply into the details, understand performance expectation, limitations, and bottlenecks as part of the root cause analysis of these jobs.
+
+**What You'll Be Doing**
+- Experience and research AI workloads and DL models specifically tailored for large-scale deep learning LLM training on NVIDIA supercomputers with a focus on High-performance networking.
+- Benchmarking, Profiling, and Analyzing the performance to find bottlenecks and identify areas of improvement and optimizations, with a strong emphasis on networking aspects.
+- Implement performance analysis tools.
+- Collaborating with many teams from HW to SW to provide performance analysis insights.
+- Define performance test planning, set performance expectations for new technologies and solutions, and work to reach the performance targets limits.
+
+**What We Need To See**
+- B.Sc in Computer Science or Software Engineering
+- 8+ years of experience with high-performance Networking (RDMA, MPI, NCCL)
+- Demonstrated Performance Analysis skills and methodologies.
+- Experience with NVIDIA GPUs, CUDA library, deep learning frameworks like TensorFlow or PyTorch, combined with expertise in networking collective communication libraries (such as NCCL) and protocols (such as RoCE and RDMA).
+- Fast and self-learning capabilities with strong analytical and problem solving skills
+- Programming Languages: Python, Bash and C languages
+- Experience with Linux OS distros
+- Team player with good communication and interpersonal skills
+
+**Ways To Stand Out From The Crowd**
+- In-depth knowledge and experience with AI workloads benchmarking for distributed LLM training, CUDA, and NCCL libraries.
+- In-depth System knowledge and understanding (Intel / AMD / ARM CPUs, NVIDIA GPUs, HCA, Memory, PCI)
+- Knowledge in Congestion Control algorithms
 
 ---
 
@@ -6250,7 +6670,32 @@ Helsing operates on-premises high-performance computing (HPC) infrastructure sup
 
 Leidos is looking for a mid-career Systems Engineer (Mid-Career) -- HPC & GPU Infrastructure with a deep understanding of operating systems, hardware, Kubernetes, and NVIDIA GPU products. As a Systems Engineer (Mid-Career) -- HPC & GPU Infrastructure, you will play a pivotal role in designing, developing, and optimizing GPU clusters for the IC community customers.
 
-[This is the same role as Entry 156, but with 4+ years of experience required. The responsibilities, qualifications, and clearance requirements are similar. The pay range is different.]
+This is a 100% on-site position. All work must be performed at the customer site in Bethesda at the Intelligence Community Campus.
+
+**Responsibilities**
+- HPC and GPU environment engineering: Contribute to the installation and maintenance of GPU and HPC hardware on-prem and in the cloud, providing insights into hardware performance to ensure efficient interaction with software components.
+- Performance Optimization: Analyze HPC/GPU cluster performance, identify bottlenecks, and develop strategies to enhance performance across various applications in Linux, addressing both hardware and software considerations. Regularly monitor and improve performance.
+- HPC/GPU tooling: Install and configure HPC/GPU job scheduling and workload management platforms such as Slurm , PBS , Apache Airflow , Kubernetes
+- Power Efficiency: Work on power management techniques to optimize GPU power consumption, ensuring efficient operation on both mobile and desktop Linux platforms. Continuously assess and enhance power efficiency strategies.
+- Testing and Validation: Design and execute tests to validate GPU performance and functionality on Linux, including stress testing, benchmarking, and debugging to ensure robust operation. Maintain and expand the testing suite.
+- Documentation: Maintain comprehensive technical documentation, including architectural specifications, code documentation, and Linux-specific best practices for GPU development. Keep documentation up to date with changes and improvements.
+- Industry Insight: Stay updated on the latest trends, innovations, and competitive landscapes within the GPU industry, contributing to research efforts and proposing Linux-specific approaches to GPU design and optimization. Share regular updates and insights with the team.
+
+**You Bring**
+- Bachelor's or higher degree in Computer Science, Electrical Engineering, or a related field. Additional years of experience may be considered in lieu of a degree.
+- 2+ years of relevant systems engineering experience
+- Expertise in operating system integration for Linux.
+- Strong understanding of computer hardware architecture, particularly as it relates to Linux systems.
+- Knowledge of parallel computing, graphics algorithms, and real-time rendering in Linux environments.
+- Excellent problem-solving skills and the ability to collaborate within a team.
+- Strong communication skills for conveying technical information in a Linux context.
+- Proficiency with scripting languages such as Python or BASH.
+- Proficiency with automation tools such Ansible, Puppet, Salt, Terraform, etc.
+- Candidate must, at a minimum, meet DoD 8570.11- IAT Level II certification requirements (currently Security+ CE, CCNA-Security, GICSP, GSEC, or SSCP along with an appropriate computing environment (CE) certification). An IAT Level III certification would also be acceptable (CASP+, CCNP Security, CISA, CISSP, GCED, GCIH, CCSP).
+
+**Clearance**
+- Active TS/SCI clearance with Polygraph required OR active TS/SCI and willingness to obtain and maintain a Poly.
+- US Citizenship is required due to the nature of the government contracts we support.
 
 **Pay Range: $87,100.00 - $157,450.00**
 
@@ -6304,14 +6749,6 @@ Phoenix is seeking a High Performance Computing (HPC) Systems Engineer to suppor
 
 ---
 
-## 167. Application Engineer (HPC) - Altair
-
-**Location:** Taipé, Taipé, Taiwan (Presencial)
-
-[This is the same role as Entry 157, but posted by Altair directly. The description is identical.]
-
----
-
 ## 168. HPC Platform Engineer - Shield Consulting Solutions, Inc.
 
 **Location:** Annapolis Junction, MD (Presencial)
@@ -6347,16 +6784,6 @@ Phoenix is seeking a High Performance Computing (HPC) Systems Engineer to suppor
 - Experience with the Atlassian Tool Suite (JIRA, Confluence)
 
 **Benefits:** Excellent benefits package including 25 days PTO, 11 paid holidays, 100% employer-paid healthcare for employees and dependents -- available day 1, 8% 401(k) employer match -- immediate vesting.
-
----
-
-## 169. HPC Engineer, Mid - Booz Allen Hamilton (Additional)
-
-**Location:** Município de Patterson, OH (Presencial)
-
-**Job Number:** R0240542
-
-[This is the same role as Entry 162. The description is identical.]
 
 ---
 
@@ -6399,7 +6826,38 @@ Phoenix is seeking a High Performance Computing (HPC) Systems Engineer to suppor
 
 **Salary Range:** $90,000 - $200,000
 
-[This is the same role as Entry 37, but located in Dallas, TX. The description is identical.]
+**Job title HPC Engineer**
+
+Sabre is seeking an HPC Data Storage Engineer to support a mission-critical Department of Defense (DoD) program dedicated to high-performance computing operations. As an HPC Engineer, you will design, optimize, and maintain advanced high-performance computing environments that power large-scale data processing, simulation, and research operation. Your contributions will directly enable advanced data-intensive research efforts that are essential to national defense
+
+**Duties include but not limited to**
+- Apply comprehensive knowledge of High Performance Computing (HPC) systems, comprised of high-speed, multi-petabyte Lustre file systems, Red Hat Enterprise Linux (RHEL) servers, CPU/GPU compute nodes, and high performance storage arrays, using Ethernet, fiber, Omni-Path, and InfiniBand interconnections.
+- Provide functional and technical expertise in support of user-developed software and technical advice and leadership to other technical staff
+- Utilize a wide variety of skills in system and network monitoring; large-scale systems administration; scripting and automation; security compliance; network distributed services; storage and backups; and hardware and software problem diagnosis and resolution.
+- Diagnose and troubleshoot technical problems, often of a complex nature, associated with computer hardware and software interrelationships and dependencies.
+- Conduct needs analysis, planning, and scheduling the installation of a wide variety of new or modified hardware/software.
+- Develop functional and technical IT system requirements and specifications. Configure and optimize system tools and applications, to include job schedulers (Slurm and PBSPro) and system resources (GitLab, LUA/TCL modules, and system support applications).
+- Create and brief technical presentations to technical and non-technical stakeholders. Maintain detailed documentation of system configurations, procedures, and troubleshooting guides. Develop user facing documentation.
+
+**Qualifications**
+
+*Job Requirements*
+- Bachelor's in Computer Engineering, Computer Science, or related field and ten or more years of job related experience.
+- Thorough knowledge of complex concepts, practices, and troubleshooting associated with HPC cluster systems design, installation, and maintenance.
+- Advanced knowledge in distributed computing theory, parallel processing, applications, and associated infrastructure is required.
+- Extensive experience with Linux/Unix systems including installation, configuration, networking, backups, updates and patching, data archiving, and system security.
+- Functional knowledge of HPC middleware, and platform managers such as Bright Cluster Manager; employing job schedulers such as PBS, Slurm, Torque, etc.; and, optimizing job queues.
+- Experience with HPC or large-scale distributed computing environments and technologies such as high-speed low-latency interconnects (e.g. InifiniBand), parallel file systems (e.g. Lustre), and virtualization environments and tools (e.g. VMWare).
+- Experience developing Python/bash/Perl scripts and employing automation frameworks such as Ansible.
+- General knowledge employing Docker containers and Kubernetes ecosystems.
+- Working knowledge in one or more programming languages (e.g. C/C++, Fortran, etc.)
+
+**Clearance Requirements**
+- This position requires an active Top Secret DoD security clearance (U.S. Citizenship Required)
+
+**Compensation Statement:** At Sabre Systems, LLC, compensation is based on factors such as location, qualifications, experience, and contract-specific requirements; however, final compensation will be determined by individual qualifications and applicable contract terms. The general salary range for this position is as follows $90,000.00 - $200,000.00
+
+
 
 ---
 
@@ -6496,14 +6954,6 @@ Technology Resource Experts, LLC is looking for an experienced High-Performance 
 - Familiar with SAFe Agile principles, methodologies, and best practices
 - Experience with IaC principles and automation tools including Ansible
 - Experience with Git Source Control System
-
----
-
-## 175. GPU Software Engineer (HPC / Deep Learning Optimization) - Luxoft Poland
-
-**Location:** Danzigue e Região (Híbrido)
-
-[This is the same role as Entry 235 from the original file. The description is identical.]
 
 ---
 
@@ -7187,7 +7637,34 @@ We are seeking a HPC and AI Sales Specialist to drive HPC and AI sales across st
 
 **Location:** Fisherton De La Mere, Inglaterra, Reino Unido (Presencial)
 
-[This is the same role as Entry 126, but located in the UK. The description is identical.]
+NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It's a unique legacy of innovation that's fueled by great technology---and amazing people. Today, we're tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what's never been done before takes vision, innovation, and the world's best talent. As an NVIDIAN, you'll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.
+
+We are looking for a Senior HPC and AI Network Software Architect to help build the next generation of scalable AI infrastructure. The role emphasizes distributed training, real-time inference, and communication efficiency across large systems. You will develop new software and hardware approaches, shape platform evolution through hands-on innovation, and contribute to designing systems powering the fastest AI workloads globally. Collaborate with our distinguished team of researchers and engineers building software and hardware for AI at an outstanding scale.
+
+**What You Will Be Doing**
+- Build and evolve the architecture of scalable software systems for distributed AI training and inference, focusing on throughput, latency, resiliency, and memory efficiency across cluster-scale deployments.
+- Develop and evaluate next-generation communication and runtime capabilities in libraries such as NCCL, UCX, and UCC, tailored to the evolving demands of frontier AI workloads.
+- Partner with AI framework teams (e.g., TensorFlow, PyTorch, JAX) and internal platform teams to build integrations, explore new approaches, and improve end-to-end performance and reliability.
+- Collaborate on hardware and system-level features across GPUs, DPUs, and interconnects to speed up data movement and enable new capabilities for training, inference, and model serving at scale.
+- Drive innovation across runtime systems, communication libraries, and AI-specific protocol layers, helping turn new ideas into practical capabilities and robust implementations.
+
+**What We Need To See**
+- Ph.D., or equivalent industry experience, in computer science, computer engineering, or a closely related field.
+- 5+ years of experience in systems programming, parallel or distributed computing, high-performance networking, or large-scale data movement, including experience designing and building complex systems.
+- Strong programming background in C++, Python, and ideally CUDA or other GPU programming models, with a track record of building production-quality performance-critical software.
+- Extensive hands-on experience with AI frameworks (e.g., PyTorch, TensorFlow, JAX) and a solid grasp of how communication libraries and runtime systems facilitate large-scale training and inference.
+- Demonstrated success in developing and refining high-throughput, low-latency systems, including the ability to reason across software stacks, hardware capabilities, and system bottlenecks.
+- Strong collaboration skills in a multi-national, interdisciplinary setting, with the ability to contribute ideas, build momentum, and work effectively with senior engineers, researchers, and partner teams.
+
+**Ways To Stand Out From The Crowd**
+- Deep expertise with NCCL, UCX, UCC, or similar communication libraries used in large-scale AI and HPC workloads.
+- Strong background in networking and communication protocols, RDMA, collective communications, congestion-aware transport, or accelerator-aware networking.
+- Comprehensive knowledge of large model training and inference serving at scale, including communication bottlenecks, scheduling challenges, and system-level tradeoffs across compute, memory, and fabric.
+- Experience crafting hardware-software co-design for distributed AI systems, including contributions that advanced GPU, DPU, interconnect, or runtime capabilities.
+- Familiarity with infrastructure for deployment of LLMs or transformer-based models, including sharding, pipelining, expert parallelism, or hybrid parallelism.
+
+**Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. For Poland: The base salary range is 221,250 PLN - 383,500 PLN for Level 3, and 292,500 PLN - 507,000 PLN for Level 4.**
+
 
 ---
 
@@ -7495,20 +7972,6 @@ This is a pivotal customer-facing role, responsible for guiding deployments, exe
 
 ---
 
-## 201. Solutions Architect -- HPC and Container Platform - algoleap
-
-**Location:** Bangalore, Carnataca, Índia (Presencial)
-
-**Job Title:** Solutions Architect -- HPC and container Platform.
-
-**Job Description**
-
-We are seeking an experienced Enterprise Solution Architect with expertise in High Performance Computing (HPC) and Container platforms in Linux-based environments to join our dynamic team. The ideal candidate will be responsible for architecting solutions including but not limited to installation, configuration, integration and implementation of HPC technologies and enterprise-grade container orchestration platform.
-
-[This is the same role as Entry 196, but posted by algoleap. The description is similar, with some minor formatting differences.]
-
----
-
 ## 202. Sr. Worldwide Specialist Solutions Architect - HPC/ML - AWS (Herndon)
 
 **Location:** Herndon, VA (Presencial)
@@ -7550,64 +8013,35 @@ Are you passionate about cloud computing and its potential to overcome some of t
 
 **Location:** Seattle, WA (Presencial)
 
-[This is the same role as Entry 202, but located in Seattle, WA. The description is identical.]
+**AWS Specialist Solutions Architects (SSAs)** are technologists with deep domain-specific expertise, able to address advanced concepts and feature designs. As part of the AWS sales organization, SSAs work with customers who have complex challenges that require expert-level knowledge to solve. SSAs craft scalable, flexible, and resilient technical architectures that address those challenges.
+
+Are you passionate about cloud computing and its potential to overcome some of the biggest challenges in High Performance Computing (HPC)? Do you have a unique combination of deep technical knowledge, business acumen and strong interpersonal skills? Do you enjoy tackling large analytical problems as massive scale? Amazon Web Services (AWS) is seeking a Senior Worldwide Specialist Solutions Architect focused on HPC to work with our customers, including physics informed machine learning, CAE, Weather and accelerated computing with GPU to craft cloud-based solutions.
+
+**Key job responsibilities**
+- Design Customer Solutions Collaborate with the wider AWS teams to help customers and partners architect HPC Solutions that leverage AWS Services
+- Engage with Solution Architects, Account Managers, Professional Services, and Partners to define an HPC Engagement strategy for AWS operational territories and key accounts, with emphasis on public sector National Super Computing Centers , Government agencies , and/or AI/ML , CAE , Weather and accelerated computing with GPU
+- Thought Leadership -- Provide thought leadership on solutions that benefit customers through the use of AWS Services. This takes the form of contribution to external publications such as the AWS Compute Blog, whitepapers and reference architectures, as well as internal training of Solutions Architects, Professional Services Consultants, Technical Account Managers, and AWS Trainers
+- Serve as a key member of the business development and accounting management team in helping to ensure customer success in building and migrating applications, software and services on the AWS platform.
+- Assist solution providers with the definition and implementation of technical and business strategies.
+- Capture and share best-practice knowledge amongst the worldwide AWS solution architect community
+- Understand AWS market segments, and industry verticals.
+- Understand and exploit the use of internal business support systems.
+
+**Basic Qualifications**
+- Experience communicating across technical and non-technical audiences, including executive level stakeholders or clients
+- Bachelor's degree
+- Deep HPC experience for workloads in a domain such as CAE, Weather Simulation, oil and gas, automotive / aerospace, financial services or pharmaceuticals.
+- Experience in architecting an HPC system and infrastructure with orchestration schedulers (e.g. Slurm, Torque, Symphony or GridServer), parallel file systems (Lustre, IBM Spectrum Scale)
+- Experience in deployment, tuning, benchmarking and management of HPC technologies in a multi-user environment.
+- Deep GPU knowledge in HPC and/or AI/ML frameworks.
+
+**Preferred Qualifications**
+- Advanced degree in Engineering, Computer Science, Machine Learning, Statistics, Physics, or related fields
+- Experience in a customer-facing role, engaging with customer executives, technologists or partners to solve business problems with advanced technologies
+- Working knowledge of HPC schedulers and distributed/parallel file systems, underlying IT systems, and the HPC development process, high throughput and tight coupling approaches.
+- Working knowledge of containers such as Docker, Kubernetes, Singularity.
+- Strong verbal and written communications skills are a must, as well as the ability to work effectively across internal and external stakeholders.
 
 **Salary Range (USA, WA, Seattle): $153,600.00 - $207,800.00 USD annually**
 
 ---
-
-## 204. Distinguished Software Architect - Deep Learning and HPC Communications - NVIDIA AI (Santa Clara)
-
-**Location:** Santa Clara, CA (Presencial)
-
-**Salary Range:** $320,000 - $488,750
-
-[This is the same role as Entry 82, but posted by NVIDIA AI. The description is identical.]
-
----
-
-## 205. HPC Software Engineer with an active TS/SCI with a Full Scope Polygraph Security Clearance Required, Onsite - M - Jobs via Dice
-
-**Location:** Maryland, Estados Unidos (Presencial)
-
-[This is the same role as Entry 178.]
-
----
-
-## 206. Senior HPC AI Cluster Engineer - NVIDIA (France - Additional)
-
-**Location:** França (Remoto)
-
-[This is the same role as Entry 182.]
-
----
-
-## 207. HPC User Support Specialist - GRNET (Additional)
-
-**Location:** Atenas, Attica, Grécia (Híbrido)
-
-[This is the same role as Entry 183.]
-
----
-
-## 208. HPC Domain Specialist (Climate/Weather) - A*STAR (Additional)
-
-**Location:** Cingapura, Cingapura (Presencial)
-
-[This is the same role as Entry 184.]
-
----
-
-## 209. HPC Domain Specialist (Engineering, CFD) - A*STAR (Additional)
-
-**Location:** Cingapura, Cingapura (Presencial)
-
-[This is the same role as Entry 185.]
-
----
-
-## 210. HPC Training Specialist - A*STAR (Additional)
-
-**Location:** Cingapura, Cingapura (Presencial)
-
-[This is the same role as Entry 186.]
