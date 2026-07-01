@@ -4814,7 +4814,7 @@ Provide technology consulting to external customers and internal project teams. 
 
 ---
 
-## 118. Senior HPC Storage Engineer - NVIDIA (Austin)
+## 116. Senior HPC Storage Engineer - NVIDIA (Austin)
 
 NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It's a unique legacy of innovation that's fueled by great technology---and amazing people. Today, we're tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what's never been done before takes vision, innovation, and the world's best talent. As an NVIDIAN, you'll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.
 
@@ -4848,7 +4848,7 @@ As a member of the HW Infrastructure Storage Strategy team, you will provide lea
 
 ---
 
-## 119. Senior HPC DevOps Engineer - NVIDIA (Israel)
+## 117. Senior HPC DevOps Engineer - NVIDIA (Israel)
 
 NVIDIA is looking for an experienced HPC DevOps and Network Engineer to help us build the supercomputers and HPC clusters of the future. As a Senior HPC DevOps Engineer, you'll be a key player in groundbreaking advancements in artificial intelligence and GPU computing. Your expertise will drive the latest breakthroughs, providing insights on at-scale system design and tuning mechanisms for large-scale compute runs. You will work with the latest Accelerated computing and Deep Learning software and hardware platforms, and with many scientific researchers, developers, and customers to craft improved workflows and develop new, leading differentiated solutions. You will interact with HPC, OS, GPU compute, and systems specialist to architect, develop and bring up large scale performance platforms.
 
@@ -4883,7 +4883,7 @@ NVIDIA is looking for an experienced HPC DevOps and Network Engineer to help us 
 
 ---
 
-## 120. Senior HPC Engineer - KLA (Ann Arbor, MI)
+## 118. Senior HPC Engineer - KLA (Ann Arbor, MI)
 
 **Company Overview**
 
@@ -8046,11 +8046,7 @@ Are you passionate about cloud computing and its potential to overcome some of t
 
 ---
 
-Here is the evaluation of the job ads from the attached file, formatted as a markdown file with each job ad presented in a consistent structure.
-
----
-
-## 1. HPC Engineer - Sandisk (Bengaluru, India)
+## 204. HPC Engineer - Sandisk (Bengaluru, India)
 
 We are seeking an experienced Senior HPC Engineer / Architect specializing in Linux-based high-performance computing (HPC) environments, EDA workflows, and automation-driven infrastructure. This role involves designing, managing, and optimizing large-scale distributed HPC clusters supporting ASIC EDA workloads across global locations.
 
@@ -8096,7 +8092,7 @@ We are seeking an experienced Senior HPC Engineer / Architect specializing in Li
 
 ---
 
-## 2. Senior HPC Engineer - Quantitative Trading Firm (New York, NY)
+## 205. Senior HPC Engineer - Quantitative Trading Firm (New York, NY)
 
 I'm working with a leading quantitative trading firm hiring a Senior HPC Engineer to help build and scale large-scale HPC and GPU infrastructure powering quantitative research, AI and machine learning workloads. This is a senior, hands-on engineering role where you'll be part of a small high-level team owning critical infrastructure across compute, storage, scheduling and networking.
 
@@ -8132,7 +8128,7 @@ I'm working with a leading quantitative trading firm hiring a Senior HPC Enginee
 
 ---
 
-## 3. Senior HPC System Administrator - ICHEC (University of Galway, Ireland)
+## 206. Senior HPC System Administrator - ICHEC (University of Galway, Ireland)
 
 Applications are invited from suitably qualified candidates for a full-time, fixed-term position as a Senior HPC System Administrator with the Irish Centre for High-End Computing (ICHEC) at the University of Galway, Ireland. ICHEC is Ireland's national centre for High-Performance Computing (HPC) providing digital infrastructure capabilities and expertise through R&D engagements and skills development programmes.
 
@@ -8158,7 +8154,7 @@ Applications are invited from suitably qualified candidates for a full-time, fix
 
 ---
 
-## 4. C++ Engineer - High Performance Computing (HPC) - Alignerr (Remote)
+## 207. C++ Engineer - High Performance Computing (HPC) - Alignerr (Remote)
 
 What if your mastery of C++ could directly shape the infrastructure powering the next generation of AI? We're looking for senior C++ engineers to build and optimize the high-performance systems, data pipelines, and evaluation tooling that leading AI labs depend on. This is a fully remote, flexible contract role for engineers who know how to write fast, clean, production-grade C++.
 
@@ -8187,7 +8183,7 @@ What if your mastery of C++ could directly shape the infrastructure powering the
 
 ---
 
-## 5. HPC Linux Administrator - Siemens Energy (Portugal)
+## 208. HPC Linux Administrator - Siemens Energy (Portugal)
 
 Your day begins with a deep dive into the state of the Linux-based High Performance Computing (HPC) environment. You review system metrics, load, I/O performance, logs, and alerts to detect potential bottlenecks early and ensure stable daily operations. You then focus on enabling your colleagues to work smoothly by handling incidents and service requests.
 
@@ -8214,7 +8210,7 @@ Your day begins with a deep dive into the state of the Linux-based High Performa
 
 ---
 
-## 6. HPC System Administrator - Lenovo (London, United Kingdom)
+## 209. HPC System Administrator - Lenovo (London, United Kingdom)
 
 We are currently hiring for an HPC System Administrator in London, United Kingdom, with experience in Linux, Unix, RedHat, Server, Storage, Networking, to work a mix of on-site and remote support to our customers.
 
@@ -8256,7 +8252,7 @@ We are currently hiring for an HPC System Administrator in London, United Kingdo
 
 ---
 
-## 7. Senior HPC Networking Engineer - Mirantis (Remote)
+## 210. Senior HPC Networking Engineer - Mirantis (Remote)
 
 We are seeking a highly skilled Senior HPC Networking Engineer to design, deploy, manage, and troubleshoot high-performance networking environments. The ideal candidate will have deep expertise in InfiniBand technologies, strong general networking knowledge, and hands-on experience with Fortinet solutions.
 
@@ -8288,7 +8284,7 @@ We are seeking a highly skilled Senior HPC Networking Engineer to design, deploy
 
 ---
 
-## 8. HPC Scientific Software Engineer - Johns Hopkins University (Remote)
+## 211. HPC Scientific Software Engineer - Johns Hopkins University (Remote)
 
 IT@JH Research Computing is seeking a HPC Scientific Software Engineer to support faculty, researchers, and students engaged in high-performance and AI-driven research across Johns Hopkins University. The position is responsible for deploying, optimizing, and maintaining scientific software and computational workflows on advanced HPC Systems and related infrastructure.
 
@@ -8320,7 +8316,7 @@ IT@JH Research Computing is seeking a HPC Scientific Software Engineer to suppor
 
 ---
 
-## 9. GPU / HPC Consultant - Neocloud and AI Infrastructure
+## 211. GPU / HPC Consultant - Neocloud and AI Infrastructure
 
 We're looking for a GPU / HPC Consultant to support fast-moving Neocloud and AI infrastructure teams as they scale complex compute environments. This role is ideal for someone who has operated at the intersection of HPC, GPU infrastructure, cloud, and high-performance systems.
 
@@ -8348,7 +8344,7 @@ We're looking for a GPU / HPC Consultant to support fast-moving Neocloud and AI 
 
 ---
 
-## 10. Linux & HPC Infrastructure Engineer
+## 212. Linux & HPC Infrastructure Engineer
 
 We're looking for an experienced Linux & HPC Infrastructure Engineer to help operate and evolve a secure, high-performance compute environment used for advanced engineering and simulation workloads.
 
@@ -8381,7 +8377,7 @@ We're looking for an experienced Linux & HPC Infrastructure Engineer to help ope
 
 ---
 
-## 11. HPC Linux System Administrator - Collins Aerospace (Remote, US)
+## 213. HPC Linux System Administrator - Collins Aerospace (Remote, US)
 
 Collins Aerospace is looking for an outstanding High-Performance Computing (HPC) specialist to join our team. You will configure and maintain Linux HPC solutions including head node, high-density compute nodes, job scheduler, virtual machines (VMs) and storage systems.
 
@@ -8418,7 +8414,7 @@ Collins Aerospace is looking for an outstanding High-Performance Computing (HPC)
 
 ---
 
-## 12. AI/HPC System Architect - SK hynix America (San Jose, CA)
+## 214. AI/HPC System Architect - SK hynix America (San Jose, CA)
 
 As an AI/HPC System Architect, your primary responsibility will be to conceptualize the architecture of next-generation AI and HPC system. This involves leveraging advanced memory to create efficient and high-performance systems.
 
@@ -8447,7 +8443,7 @@ As an AI/HPC System Architect, your primary responsibility will be to conceptual
 
 ---
 
-## 13. HPC Kubernetes Solutions Architect - NorthMark Compute & Cloud
+## 214. HPC Kubernetes Solutions Architect - NorthMark Compute & Cloud
 
 As an HPC Kubernetes Solutions Architect, you will act as a trusted advisor to customers, guiding them through the design, integration, and adoption of GPU-accelerated Kubernetes platforms purpose-built for high-performance computing (HPC), AI/ML training, simulation, and scientific workloads.
 
@@ -8481,7 +8477,7 @@ As an HPC Kubernetes Solutions Architect, you will act as a trusted advisor to c
 
 ---
 
-## 14. Senior Google Cloud Platform Architect - HPC Life Sciences (Warren, NJ)
+## 215. Senior Google Cloud Platform Architect - HPC Life Sciences (Warren, NJ)
 
 We are seeking a highly specialised Senior Google Cloud Platform Architect with deep, hands-on High Performance Computing (HPC) expertise in Life Sciences and Genomics to lead the migration of large-scale on-premises HPC environments to Google Cloud Platform.
 
@@ -8516,7 +8512,7 @@ We are seeking a highly specialised Senior Google Cloud Platform Architect with 
 
 ---
 
-## 15. HPC and AI Sales Specialist - Lenovo (North America, Remote)
+## 216. HPC and AI Sales Specialist - Lenovo (North America, Remote)
 
 We are seeking a HPC and AI Sales Specialist to drive HPC and AI sales across strategic industries, including Financial Services, Neocloud/Scale out computing, and other key industries.
 
@@ -8548,7 +8544,7 @@ We are seeking a HPC and AI Sales Specialist to drive HPC and AI sales across st
 
 ---
 
-## 16. Senior GenAI & HPC Delivery Engineer - Dell Technologies (Austin, TX or Remote US)
+## 217. Senior GenAI & HPC Delivery Engineer - Dell Technologies (Austin, TX or Remote US)
 
 We're seeking a Senior GenAI & HPC Engineer with deep experience in GPU accelerated systems, Linux performance tuning, and benchmarking. This role is highly hands-on and customer facing, supporting onsite deployments across the U.S. for advanced HPC and GenAI solutions.
 
@@ -8581,7 +8577,7 @@ We're seeking a Senior GenAI & HPC Engineer with deep experience in GPU accelera
 
 ---
 
-## 17. HPC Sales Specialist - Siemens (Taiwan)
+## 218. HPC Sales Specialist - Siemens (Taiwan)
 
 The primary responsibility of this position is to identify, manage and close opportunities for Siemens HPCWorks Software Portfolio and Appliances in Taiwan. This is a sales position that requires both strong online and direct face-to-face sales skills.
 
@@ -8618,7 +8614,7 @@ The primary responsibility of this position is to identify, manage and close opp
 
 ---
 
-## 18. HPC Systems Engineer - Strategic Business Systems (Chantilly, VA)
+## 219. HPC Systems Engineer - Strategic Business Systems (Chantilly, VA)
 
 Strategic Business Systems, Inc. (SBS) is seeking a talented HPC Systems Engineer to join our growing team. This role centers on supporting mission-critical High Performance Computing (HPC) environments that enable advanced analytics, modeling, simulation, and other compute-intensive workloads.
 
@@ -8654,7 +8650,7 @@ Strategic Business Systems, Inc. (SBS) is seeking a talented HPC Systems Enginee
 
 ---
 
-## 19. HPC Systems Architect - IMC Trading (Chicago)
+## 220. HPC Systems Architect - IMC Trading (Chicago)
 
 We are seeking an exceptional HPC Systems Architect who will lead the charge in designing, implementing, and optimizing our global HPC infrastructure, driving innovation, and delivering scalable solutions that empower our advanced computational needs.
 
@@ -8686,7 +8682,7 @@ We are seeking an exceptional HPC Systems Architect who will lead the charge in 
 
 ---
 
-## 20. Global HPC Lead - Shearwater (Marine Geoscience)
+## 221. Global HPC Lead - Shearwater (Marine Geoscience)
 
 We're looking for a Global HPC Lead to define and lead the evolution of Shearwater's high-performance computing capability. You will own the strategy, architecture and roadmap for this global capability, ensuring we have the right platforms, technologies and operating models to support the future needs of the business.
 
@@ -8706,7 +8702,7 @@ We're looking for a Global HPC Lead to define and lead the evolution of Shearwat
 
 ---
 
-## 21. Principal HPC Network Engineer - EPAM (Remote Lithuania)
+## 222. Principal HPC Network Engineer - EPAM (Remote Lithuania)
 
 We are seeking a Principal HPC Network Engineer to support advanced AI, research, and Kubernetes-based GPU infrastructure for a major global technology client. An ideal candidate is an ownership-driven, hands-on network expert who combines deep low-level troubleshooting with architectural thinking.
 
