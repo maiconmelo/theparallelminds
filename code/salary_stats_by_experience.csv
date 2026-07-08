@@ -1,0 +1,5 @@
+Experience Level,Count,Min,Max,Average,Median,Std
+Lead,23,80.0,404.0,205.9,200.0,71.2
+Senior,55,43.0,300.0,193.2,215.0,63.5
+Mid-level,11,3.0,178.0,99.1,104.0,52.2
+Entry-level,4,62.0,101.0,86.0,90.5,17.8
