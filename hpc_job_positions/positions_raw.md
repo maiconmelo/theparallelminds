@@ -8734,3 +8734,1738 @@ We are seeking a Principal HPC Network Engineer to support advanced AI, research
 - Capability to perform Infrastructure as Code development and maintenance.
 
 **Salary Range:** €5.6K-€7.2K gross monthly
+
+# HPC Open Positions - Complete LinkedIn Job List
+
+---
+
+## 1. RISC-V AI / HPC & Agentic Software Engineering Lead
+
+**Company:** Tenstorrent
+
+**Location:** North America (Remote)
+
+Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems.
+
+Tenstorrent is building next-generation RISC-V CPUs optimized for AI, high-performance computing, and emerging autonomous AI systems. As the RISC-V AI / HPC & Agentic Software Engineering Lead, you will operate at the hardware–software boundary, enabling AI, HPC, and agentic AI software stacks on Tenstorrent's RISC-V processors. This role is responsible for integrating and optimizing Tenstorrent's LLK (Low-Level Kernel) infrastructure for CPU execution, while leading the bring-up of a RISC-V-native agentic AI software stack — including runtime orchestration, distributed execution frameworks, memory systems, and developer tools required for goal-driven AI systems. You will work closely with CPU architects, microarchitecture teams, compiler engineers, and AI kernel developers to ensure tight alignment between software capabilities and RISC-V architectural features.
+
+This role is remote, based out of North America.
+
+We welcome candidates at various experience levels for this role. During the interview process, candidates will be assessed for the appropriate level, and offers will align with that level, which may differ from the one in this posting.
+
+**Who You Are**
+- A systems-oriented software engineer with deep experience in HPC and AI software stacks.
+- Experienced with distributed AI systems, orchestration frameworks, or agentic AI architectures.
+- Comfortable working close to hardware and instruction-level programming.
+- Skilled at translating performance targets into architectural and software requirements.
+- Experienced in runtime systems, profiling, and low-level optimization.
+- Motivated by hardware–software co-design and scaling next-generation AI infrastructure.
+
+**What We Need**
+- Strong background in HPC and AI software development.
+- Solid understanding of RISC-V architecture (ISA, extensions, micro-architectural implications).
+- Proficiency in C/C++ and systems programming.
+- Experience optimizing performance-critical code paths.
+- Experience with agentic AI frameworks, distributed execution systems, or orchestration platforms.
+- Familiarity with compiler toolchains (LLVM, GCC).
+- Experience with vectorization, custom ISA extensions, or accelerator integration.
+
+**What You Will Learn**
+- How AI and agentic workloads map to RISC-V microarchitecture.
+- Custom ISA extension design for AI acceleration.
+- End-to-end HPC/AI/agentic stack integration.
+- Runtime orchestration for distributed AI systems.
+- Hardware–software co-design for scalable AI-native CPU platforms.
+
+---
+
+## 2. AI/HPC System Engineer
+
+**Company:** SK hynix America
+
+**Location:** San Jose, CA (Onsite)
+
+**Job Type:** Full-Time
+
+**Work Model:** Onsite
+
+**Salary Range:** $175,000 - $230,000
+
+At SK hynix America, we're at the forefront of semiconductor innovation, developing advanced memory solutions that power everything from smartphones to data centers. As a global leader in DRAM and NAND flash technologies, we drive the evolution of advancing mobile technology, empowering cloud computing, and pioneering future technologies.
+
+We're looking for innovative minds to join our mission of shaping the future of technology. At SK hynix America, you'll be part of a team that's pioneering breakthrough memory solutions while maintaining a strong commitment to sustainability.
+
+**Job Summary:**
+- This role will be responsible for assuring SK hynix emerging technology leadership to be maintained and leading the next generation of memory-centric architecture using your expertise in computer system and SW technologies including open source tools to demonstrate benefits and use cases.
+- AI/HPC System engineer will be responsible for designing, developing, and optimizing next-generation memory solutions and system software for energy-efficient AI computing platform.
+- AI/HPC System engineer will work closely with our hardware and software teams to ensure seamless integration and optimal performance of our next-generation AI memory solutions
+
+**Responsibilities:**
+- Individual technical contributor within the research team focused on next generation storage/memory systems.
+- Design and develop next-generation memory solution prototype and system software for energy-efficient AI/ML computing infrastructure, including memory management, cache hierarchy, and data transfer protocols.
+- Collaborate with hardware architects to ensure optimal HW/SW co-design and integration.
+- Develop and maintain system software frameworks and APIs for AI system infrastructure.
+- Optimize system software for performance, power efficiency, and scalability.
+- Develop and maintain documentation, technical specifications, and test plans for system software.
+- Participate in technical discussions and provide input on system software design and architecture with industry ecosystem partners
+- Stay up-to-date with industry trends and emerging technologies in AI, memory systems, and system software.
+- Verbal/written communication with both internal and external collaborator
+
+**Qualifications:**
+- Ph.D. in Computer Science/Electrical Engineering or 6+ years of experience in system software development, with a focus on memory system architecture and AI infrastructure.
+- Strong understanding of computer architecture, memory systems, and system software design.
+- Experience and familiarity with Python/C/C++ programming languages
+- Knowledge of operating systems, device drivers, and system programming.
+- Good working knowledge or experience in GPU architecture and CUDA programming
+- Excellent problem-solving skills, with the ability to debug complex system software issues.
+- Strong communication and collaboration skills, with the ability to work with cross-functional teams.
+
+**Benefits:**
+- Top Tier health insurance at no employee cost
+- Paid day offs: PTO + Company Holidays + Happy Fridays
+- Paid Parental Leave Program
+- 401k Matching
+- Educational reimbursement up to $10,000 per year
+- Donation Matching and volunteering opportunities
+- Free Breakfast/Lunch/Dinner provided to employees
+
+---
+
+## 3. HPC Systems Engineer
+
+**Company:** Autonomai Recruitment (Leading Quantitative Trading Firm)
+
+**Location:** Sydney, Australia (Full-time Onsite)
+
+**Salary Range:** $200,000 - $500,000 USD
+
+I'm working with a leading quantitative trading firm hiring an HPC Operations Engineer to support and scale critical Linux HPC infrastructure powering quantitative research and large-scale compute workloads.
+
+This is a highly hands-on role focused on operational excellence across compute, storage, scheduling and interconnects. You'll be working in a fast-moving environment supporting production HPC systems at scale, troubleshooting complex issues and building tooling to improve reliability and performance.
+
+**What You'll Be Doing:**
+- Provide front-line support for Linux HPC compute, storage and interconnects
+- Support and troubleshoot HPC schedulers, parallel filesystems and RDMA fabrics
+- Respond to production alerts and drive root cause analysis
+- Automate operational tasks and build tooling for diagnostics and remediation
+- Work across Slurm, Lustre, GPFS, FUSE and Linux systems
+- Support performance monitoring and fault monitoring systems
+- Work closely with researchers and infrastructure teams on operational issues
+- Participate in large-scale maintenance operations and infrastructure projects
+- Improve documentation, tooling and operational workflows
+- Work directly with vendors and external partners where needed
+
+**Looking For:**
+- 4+ years of Linux systems experience
+- Strong operational mindset and desire to work in production environments
+- Experience with Python, Go, Bash or C
+- Strong troubleshooting and root cause analysis skills
+- Exposure to HPC environments is highly beneficial
+- Experience with schedulers such as Slurm or Grid Engine is a plus
+- Experience with parallel filesystems such as Lustre or GPFS is a plus
+- Exposure to high-performance networking such as RDMA or InfiniBand is a plus
+- Strong communication skills and ability to work across multiple teams
+
+**Strong Bonus If You've Worked With:**
+- Slurm
+- Lustre
+- GPFS / Spectrum Scale
+- RDMA
+- InfiniBand
+- FUSE
+- Linux automation
+- Production HPC environments
+- Quantitative research infrastructure
+
+---
+
+## 4. AI / HPC Consultant
+
+**Company:** Hays / Computacenter
+
+**Location:** United Kingdom (Fully Remote)
+
+**Daily Rate:** Negotiable (Inside IR35)
+
+**Contract Length:** Until 31/12/2026
+
+**Start Date:** ASAP / Immediate Start
+
+An exciting opportunity has arisen to join Computacenter's consultancy practice, helping enterprise customers design and deliver cutting-edge NVIDIA-based AI and HPC infrastructure solutions. This role focuses on high-performance networking, AI cluster architecture, InfiniBand, Spectrum-X, RoCEv2, and physical infrastructure design across GPU-accelerated environments. Working closely with customers, vendors and internal stakeholders, you will provide technical leadership across architecture, design assurance and infrastructure optimisation.
+
+**Key Responsibilities:**
+- Design High-Level and Low-Level Designs (HLDs/LLDs) for NVIDIA AI/HPC infrastructure, including GB300, B300, DGX, HGX and NVL72 environments.
+- Design and validate InfiniBand backend fabrics, Spectrum-X front-end networks and Spectrum-X Ethernet backends.
+- Provide technical expertise across RoCEv2, InfiniBand, VXLAN EVPN, BGP, leaf-spine architectures and high-performance networking.
+- Create, review and optimise Bills of Material (BoMs) covering switches, optics, fibre assemblies, DAC/ACC/AEC cabling, adapters, DPUs and licensing.
+- Run customer discovery workshops, requirements gathering sessions, architecture governance reviews and technical design discussions.
+- Produce diagrams, port maps, cable matrices, design documentation and implementation guidance.
+- Act as a technical lead, collaborating with customers, vendors, consultants, pre-sales teams and delivery stakeholders.
+
+**Key Requirements:**
+- Strong Network Architecture or Data Centre Networking background with experience in HPC, AI Infrastructure or low-latency network fabrics.
+- Hands-on experience with InfiniBand, RoCEv2, Spectrum-X Ethernet, congestion management and lossless Ethernet technologies.
+- Strong understanding of VXLAN EVPN, BGP, leaf-spine design, routing, resiliency and modern data centre networking principles.
+- Practical knowledge of optical and copper connectivity including SMF/MMF, MPO/MTP, DAC, AEC/ACC, QSFP, QSFP-DD, OSFP and related technologies.
+- Experience interpreting NVIDIA reference architectures and translating them into customer-ready designs and commercially accurate Bills of Material.
+- Strong stakeholder engagement, consultancy and technical documentation skills.
+
+**Additional Information:**
+- Experience with NVIDIA DGX, HGX, GB300, B300, NVL72, ConnectX and BlueField/SuperNIC technologies is highly desirable.
+- Knowledge of physical infrastructure design including rack layouts, switch placement, cabling strategy, cooling and power considerations is preferred.
+- Exposure to liquid cooling, storage integration, management fabrics and out-of-band networking is beneficial.
+- Relevant certifications such as Cisco CCNP/CCIE, NVIDIA Networking, Arista, Juniper, HPE or equivalent are desirable.
+- Experience within Consultancy, Professional Services, Technical Architecture or Pre-Sales environments would be advantageous.
+
+---
+
+## 5. Sr. High Performance Computing (HPC) Systems Engineer
+
+**Company:** SpaceX
+
+**Location:** Hawthorne, CA (Onsite)
+
+**Salary Range:** $165,000 - $230,000
+
+SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.
+
+SpaceX is looking for an HPC Systems Engineer with strong knowledge and experience in a world class engineering organization. This employee will be a member of the HPC team and will support SpaceX personnel and proprietary systems. The ideal candidate will be flexible and flourish in a fast paced and challenging environment.
+
+**Responsibilities:**
+- Administer and manage HPC clusters, storage systems, and high-speed networks
+- Provide application support to SpaceX employees across engineering disciplines
+- Install and integrate Linux-based compute clusters
+- Write instructional documentation and convey highly technical ideas in non-technical terms
+
+**Basic Qualifications:**
+- Bachelor's degree in computer science, engineering, math, or scientific discipline and 5+ years of systems engineering experience; OR 7+ years of professional experience building software in lieu of a degree
+- 5+ years of hands-on experience with client and server hardware/software, management tools, enterprise networking, virtualization, and security technologies
+- Experience with Kubernetes
+
+**Preferred Skills & Experience:**
+- 5+ years of professional experience building, deploying and troubleshooting Linux systems
+- Experience with a scripting language (Bash, Python) to automate and solve reoccurring tasks
+- Experience building, deploying and troubleshooting HPC clusters
+- Familiarity with cluster resource managers (Slurm, PBS, LSF)
+- Experience with monitoring and alerting technologies (Prometheus, Grafana, Nagios)
+- Familiarity with scientific and engineering computing (CFD, FEA)
+- Familiarity with large scale AI training
+- Familiarity with GPU usage in a compute cluster and Cuda
+- Experience with containers (Docker, Podman, Singularity)
+- Experience deploying and maintaining automated configuration management software (Puppet, Ansible)
+- Comfortable working with mission critical and sensitive systems, with a sense of urgency appropriate to the responsibilities
+- Eligibility for access to classified material up to TS/SCI with Polygraph
+
+**Additional Requirements:**
+- Must be willing to work extended hours and weekends as needed
+
+**ITAR Requirements:**
+To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State.
+
+---
+
+## 6. HPC Senior Systems Administrator
+
+**Company:** KAUST (King Abdullah University of Science and Technology)
+
+**Location:** Saudi Arabia, Makkah Region
+
+**Position Summary**
+
+We are seeking a highly motivated and skilled Senior HPC Systems Administrator to join the KAUST Supercomputing Laboratory (KSL). The successful candidate will be responsible for managing an HPC cluster of approximately 600 CPU and GPU nodes, HPC storage systems, InfiniBand and Ethernet networks, and day-to-day operational issues. The role provides broad support to researchers and end-users across computational science, engineering, big data analysis, and artificial intelligence/machine learning workloads.
+
+**Major Responsibilities:**
+- Provide timely and effective user support via telephone, walk-in, email, and ticketing system for all inquiry types while maintain high customer service standards.
+- Install, configure, and manage HPC subsystems including compute nodes, high-performance storage systems, InfiniBand, Ethernet, and configuration management tools (e.g., Ansible, Puppet).
+- Deploy and manage cluster management software, monitoring tools, and supporting services for operating HPC clusters.
+- Install and administer the Slurm workload manager, manage QOS policies, accounts, accounting, and related automation scripts (Python and C++).
+- Develop and maintain automation scripts in Bash and Python to streamline system administration tasks.
+- Deploy and manage container environments (Singularity/Apptainer, Docker) for HPC workloads.
+- Benchmark HPC system components like CPU, memory, InfiniBand, and storage periodically to ensure optimal performance and identify tuning opportunities across hardware, driver, and application layers.
+- Enforce security best practices including node hardening, kernel patching, and compliance across all systems.
+- Manage parallel file systems such as Lustre, GPFS, Weka, or Vast, including performance tuning and capacity planning.
+- Directly support research activities in computational science, engineering, data analysis, and AI/ML by working closely with faculty, researchers, collaboration partners, and industrial partners in collaboration with application support teams.
+- Develop software tools and utilities as needed to support research projects on cluster systems and subsystems.
+- Drive proof-of-concept projects and technology evaluations end-to-end and research industry best practices and advocate system enhancements.
+- Coordinate with vendors and third-party service providers to report and resolve issues in a timely manner.
+- Develop and maintain user documentation, standard operating procedures, and training materials in the internal wiki.
+- Stay at the forefront of HPC advancements through continuous learning, industry conferences, and professional collaboration, while driving benchmarking initiatives to inform future hardware procurement.
+
+**Competencies:**
+- Expertise in supporting users of computational science and engineering, data analysis, and artificial intelligence applications and libraries in different HPC environments.
+- Strong expertise in Linux system administration (RHEL, Rocky Linux, or CentOS) in large-scale HPC environments.
+- Proficiency with HPC applications and programming models (Fortran, C/C++, Python, MPI, OpenMP, CUDA, OpenACC).
+- Demonstrated track record of managing complex HPC systems, including parallel file systems, job schedulers, InfiniBand/Ethernet networks, and monitoring systems.
+- Experience with configuration management tools (Ansible, Puppet, or equivalent).
+- Familiarity with computational science, data analysis, and AI/ML applications and libraries used in HPC environments.
+- Knowledge of project management principles and practices.
+- Demonstrated ability to support research activities in a highly collaborative HPC environment.
+- Strong analytical, problem-solving, and decision-making skills.
+- Proactively identifies and implements system improvements; takes initiative and sees tasks through to closure.
+- Ability to manage multiple concurrent projects and deliver high-quality results within deadlines.
+- Proven ability to collaborate cross-functionally with researchers, application teams, and vendors.
+- Effective in multi-cultural, international work environments.
+- Excellent verbal and written communication skills in English, including the ability to prepare and deliver technical reports and presentations.
+
+**Qualifications:**
+- Bachelor's or master's degree in computer science/engineering, Information Systems, or equivalent
+- Five years of experience supporting large scale computing platforms and related subsystems.
+- Experience troubleshooting complex hardware issues and documenting root cause analysis.
+- Experience managing parallel storage systems (Lustre, GPFS, Weka, Vast, or similar).
+- Experience benchmarking HPC system components (CPU, memory, InfiniBand, storage).
+- Experience administering workload managers/schedulers (Slurm, LSF, or PBS).
+- Strong Linux system administration experience (RHEL, Rocky Linux, or CentOS).
+- Experience with configuration management tools such as Ansible or Puppet.
+- Ability to coordinate with researchers, application support teams, and vendors to resolve complex issues and drive them to closure.
+- Proven ability to collaborate cross-functionally and drive initiatives to completion.
+- Familiarity with Kubernetes and container orchestration platforms would be desirable
+
+---
+
+## 7. HPC Scientific Support Engineer
+
+**Company:** Berkeley Lab / NERSC
+
+**Location:** Berkeley, CA (On-site, Hybrid, or Full-time Telework)
+
+**Salary Range:** $156,864 - $191,724 (Level 3) / $178,644 - $218,364 (Level 4)
+
+Lawrence Berkeley National Laboratory is hiring an HPC Scientific Support Engineer for the NERSC division, the U.S. Department of Energy Office of Science's high-performance computing center serving more than 10,000 researchers across scientific disciplines.
+
+As part of the User Engagement Group (UEG), the primary interface between NERSC and its users, you will provide expert HPC consulting and technical support, help improve user-facing services and documentation, and contribute to projects that enhance functionality, workflows, and the overall user experience.
+
+**At CSE3 Level, You Will:**
+- Provide front-line HPC consulting and one-on-one user support for workflow optimization, job and data management, and code debugging.
+- Stay current on emerging HPC technologies and contribute to planning future NERSC systems from a user-support perspective.
+- Enhance the NERSC user environment by installing, maintaining, and documenting productivity tools and software.
+- Develop user documentation, tutorials, and training programs to improve user knowledge and productivity.
+- Analyze and resolve complex technical issues, applying sound judgment to evaluate solutions and achieve results.
+- Help define methods and procedures for new initiatives and coordinate activities when needed.
+
+**At CSE4 Level, You Will Also:**
+- Mentor early-career staff in technical skills and project work.
+- Monitor emerging HPC and AI trends and identify opportunities for NERSC users.
+- Independently analyze and resolve complex, ambiguous technical challenges.
+
+**What is Required (Level 3):**
+- A minimum of 8 years of related experience with a Bachelor's degree; or an equivalent combination of education and experience.
+- A minimum of 2 years of experience using HPC systems is required.
+- Strong critical thinking skills and the ability to resolve complex problems and develop solutions for NERSC's users.
+- In-depth knowledge and experience with high performance scientific computing is required; your experience should include at least four of the following: Linux/Unix, Fortran, C/C++, MPI, OpenMP, OpenACC, CUDA, shell scripting, Python, parallel algorithms, programming models, AI models, debuggers, performance tools, containers.
+- Ability to interact effectively with users, understand user needs, and show initiative, tact, and judgment in developing solutions for users.
+- The ability to communicate clearly and effectively, both orally and in writing.
+- Ability to use and implement common internet technologies to communicate with technical users (e.g., web, chat, email, discussion forums, trouble ticket systems) and write effective technical documentation for the web.
+- Teaching and developing classes, tutorials, and/or workshops in technical computing areas.
+
+**Additional Requirements (Level 4):**
+- A minimum of 12 years of related experience with a Bachelor's degree; 8 years and a Master's degree; or an equivalent combination of education and experience.
+- In-depth knowledge and experience with high performance scientific computing is required; your experience should include at least five of the following: Linux/Unix, Fortran, C/C++, MPI, OpenMP, OpenACC, CUDA, shell scripting, Python, parallel algorithms, programming models, AI models, debuggers, performance tools, containers.
+- Ability to work on and resolve significant and unique issues where analysis of situations or data requires an evaluation of intangibles.
+- Ability to exercise independent judgment in methods, techniques and evaluation criteria for obtaining results.
+
+**Desired Qualifications:**
+- Ability to build and/or containerize complex scientific codes.
+- Optimizing parallel programs for very large-scale execution.
+- Developing scientific application code.
+- Organizing technical conferences.
+- Experience with AI and data analytics software stacks.
+- Strong background in mathematics and statistics.
+- Web programming (REST, JavaScript) and database skills (SQL).
+
+---
+
+## 8. Manager, HPC/AI Software Product Management
+
+**Company:** Hewlett Packard Enterprise (HPE)
+
+**Location:** Spring, TX (Hybrid - 2 days/week in office)
+
+**Salary Range:** $144,000 - $273,000 (CO) / $155,500 - $315,000 (CA) / $137,000 - $315,000 (MN, TX, WI)
+
+**Job Family Definition:**
+
+Designs, plans, develops, and manages a portfolio of HPC/AI management and solution software products through the leadership of a team of software product managers across the full solution lifecycle: from new product definition and enhancements to planning, development, and end-of-life. Responsible for both building and leading a high-performing product management team and ensuring consistent delivery of high-quality product outcomes across the software portfolio.
+
+**Management Level Definition:**
+
+Leads and manages a team of software product managers responsible for HPC/AI management and solution software. Contributions impact both team effectiveness and the successful execution of product strategy and delivery across the portfolio.
+
+Applies advanced subject matter expertise to guide, coach, and support product managers in addressing complex business and technical challenges while ensuring alignment to broader product direction. Recognized as a leader who enables teams to execute effectively and deliver meaningful results.
+
+Balances people leadership and product accountability—setting clear expectations, driving accountability, and ensuring high standards of execution, while also providing direction and oversight on product priorities and roadmap decisions.
+
+Partners closely with Software Architects, Engineering leaders, and other Product Management leaders to ensure alignment between team execution, technical architecture, and product goals. Exercises independent judgment in team management, prioritization, and resolving complex trade-offs.
+
+**Responsibilities:**
+- Leads and manages a team of software product managers, including hiring, onboarding, coaching, and performance management.
+- Sets clear goals, expectations, and accountability for the team, ensuring alignment with business and product objectives.
+- Drives both team performance and product execution, ensuring delivery of high-quality roadmaps, requirements, and outcomes.
+- Conducts regular 1:1s, feedback, and career development planning, supporting growth and development of product managers.
+- Provides guidance and oversight on product direction, helping shape priorities and ensuring alignment across the portfolio without owning every decision directly.
+- Enables product managers to operate effectively and independently, while stepping in to support complex decisions, trade-offs, or escalations.
+- Establishes and maintains consistent product management practices and operating rhythms (planning, prioritization, roadmap reviews).
+- Ensures effective coordination across product managers and product areas, driving alignment and reducing duplication or conflict.
+- Partners closely with Software Architects and Engineering to ensure product plans are feasible, well-aligned, and executable, and that teams are set up for success.
+- Drives execution discipline, ensuring commitments are met and delivery quality is consistent across the team.
+- Identifies gaps in team capability or execution and implements coaching, process improvements, or structural adjustments.
+- Supports portfolio-level alignment and contributes to broader product strategy through team leadership and cross-functional collaboration.
+- Develops talent and builds a strong internal pipeline through mentorship, succession planning, and leadership development.
+
+**Education and Experience Required:**
+- Bachelor's degree or equivalent in Computer Science, Engineering, or related field.
+- MBA or advanced degree preferred.
+- 10+ years of experience in software product management or related field.
+- 3–5+ years of experience in people management, including managing product managers.
+- Experience in HPC, AI/ML, distributed systems, or infrastructure software environments.
+- Proven track record of leading teams and delivering complex software products or platforms.
+
+**Knowledge and Skills:**
+- Strong people leadership and team development skills, including coaching, mentoring, and performance management.
+- Ability to balance team leadership with ownership of product outcomes and execution quality.
+- Experience driving cross-functional alignment and execution in complex technical environments.
+- Strong business and product acumen, with the ability to guide teams in prioritization and decision-making.
+- Solid technical understanding of HPC/AI software systems to effectively collaborate with architects and engineers.
+- Ability to establish and scale effective processes, operating models, and team practices.
+- Strong communication and influence skills across technical and business stakeholders.
+- Sound judgment in managing trade-offs, team dynamics, and delivery commitments.
+
+---
+
+## 9. Product Manager, HPC/AI Software
+
+**Company:** Hewlett Packard Enterprise (HPE)
+
+**Location:** Spring, TX (Hybrid - 2 days/week in office)
+
+**Salary Range:** $111,500 - $211,500 (CO) / $106,000 - $243,000 (MN, TX, WI)
+
+**Job Family Definition:**
+
+Designs, plans, develops, and manages HPC/AI management and orchestration software products throughout the solution lifecycle: from new product definition or enhancements to existing platforms; planning, design, and delivery; through to end-of-life. Contributes to building scalable, integrated system management and orchestration solutions that enable efficient deployment, operation, and optimization of HPC and AI infrastructure.
+
+**Management Level Definition:**
+
+Individual contributor role with responsibility for owning product areas within HPC/AI management and orchestration software. Contributions impact key software components and features within the broader product portfolio.
+
+Applies subject matter knowledge in HPC/AI systems and software to solve moderately complex business and technical challenges. Works under general guidance while exercising independent judgment in executing product responsibilities.
+
+Collaborates closely with Software Architects, Engineering teams, and peer Product Managers to ensure alignment between product requirements, technical implementation, and customer needs. Participates in cross-functional initiatives and contributes to broader product direction through domain expertise and execution.
+
+**Responsibilities:**
+- Owns specific product areas or features within HPC/AI system management and orchestration software, including definition, execution, and delivery.
+- Contributes to the product roadmap by defining requirements, prioritizing features, and aligning with overall product and portfolio goals.
+- Works closely with Software Architects and Engineering teams to translate requirements into scalable, high-quality software solutions.
+- Develops and maintains product requirements (PRDs), user stories, and feature specifications with clear acceptance criteria.
+- Engages with customers, partners, and internal stakeholders to gather requirements and understand use cases, particularly around system deployment, monitoring, orchestration, and lifecycle management.
+- Helps define the value proposition and positioning for product features within HPC/AI management and orchestration solutions.
+- Supports cross-product alignment by collaborating with other product managers to ensure consistency in user experience, APIs, and platform capabilities.
+- Participates in planning, prioritization, and release cycles, ensuring timely and high-quality delivery of product commitments.
+- Works with Engineering, QA, and DevOps teams to ensure successful product delivery, validation, and release readiness.
+- Supports go-to-market activities, including documentation, training, and customer engagement for product features.
+- Monitors product performance and customer feedback to identify areas for improvement and future enhancements.
+
+**Education and Experience Required:**
+- Bachelor's degree or equivalent in Computer Science, Engineering, or related field.
+- 5+ years of experience in software product management or a related role (e.g., engineering, technical program management).
+- Experience in HPC, AI/ML platforms, distributed systems, or infrastructure software.
+- Familiarity with system management, orchestration frameworks, or cloud/HPC infrastructure environments preferred.
+
+**Knowledge and Skills:**
+- Solid understanding of HPC/AI systems, infrastructure software, and orchestration concepts (e.g., cluster management, scheduling, monitoring).
+- Ability to translate technical requirements into clear product specifications.
+- Strong collaboration skills, with ability to work effectively across Engineering, Architecture, and cross-functional teams.
+- Good product sense and ability to contribute to feature prioritization and roadmap decisions.
+- Analytical thinking and problem-solving skills, with ability to manage trade-offs and dependencies.
+- Strong communication skills, both technical and business-facing.
+- Ability to operate effectively in fast-paced, complex environments with multiple stakeholders.
+- Basic business acumen and understanding of customer needs and product value.
+
+---
+
+## 10. Technical Program Manager, HPC
+
+**Company:** Mistral
+
+**Location:** London, England, UK
+
+About Mistral
+
+Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems—across high-stakes industries like finance, manufacturing, defense, healthcare, and the public sector—co-creating customized AI systems that they can run on their terms.
+
+We are a dynamic, collaborative team passionate about AI and its potential to transform society. Our diverse workforce thrives in competitive environments and is committed to driving innovation. Our teams are distributed between Europe, North America, Asia and the Middle East. We are creative, low-ego and team-spirited.
+
+**The Role**
+
+As a Technical Project Lead on the HPC team, you will oversee the delivery of Mistral's high-performance computing projects from deployment to production. This role exists to ensure our HPC clusters are delivered on time, within budget, and aligned with technical and operational goals. You will manage critical resources, negotiate with data centers and infrastructure providers, and facilitate collaboration across teams. Based in Paris or London (with frequent travel to Paris if remote), your work will directly impact Mistral's ability to scale its AI infrastructure.
+
+**What You Will Do:**
+- Oversee the delivery of Mistral's HPC clusters, from hardware deployment to production readiness.
+- Strategically manage project timelines, deliverables, and milestones to ensure on-time completion.
+- Allocate resources and manage budgets to support project goals.
+- Negotiate with data centers and infrastructure providers to secure necessary agreements.
+- Facilitate cross-functional collaboration to align technical and operational objectives.
+- Communicate project progress and strategic direction to stakeholders.
+- Implement quality control measures to ensure adherence to project standards.
+
+**Qualifications & Experience:**
+- Technical degree in computer science, general engineering, or a related field.
+- Proven experience in large infrastructure project management, preferably in HPC or related fields.
+- Deep program management experience with a track record of delivering complex projects.
+- Excellent communication and stakeholder management skills.
+- Strong negotiation skills for vendor and partner engagements.
+- Ability to work collaboratively in cross-functional team environments.
+
+We offer a comprehensive benefits package designed to support your well-being, growth, and work-life balance. Benefits vary by country and may include healthcare coverage, parental leave, retirement plans, relocation support, wellness programs, meal and transportation allowances, and other location-specific perks.
+
+---
+
+## 11. HPC Engineer - Harvard Medical School
+
+**Company:** Harvard Medical School
+
+**Location:** Boston, MA
+
+Harvard Medical School is seeking a High-Performance Computing (HPC) Engineer to join our HPC Team. This role is critical in supporting cutting-edge biomedical research through the design and maintenance of large-scale Linux environments.
+
+**The Ideal Candidate:**
+- **Linux Expert:** Possesses good knowledge of the Linux OS and a proven track record of troubleshooting complex kernel, network, process, and file system issues.
+- **Automation Specialist:** Skilled in Infrastructure as Code (IaC) using Ansible to manage and scale cluster configurations.
+- **HPC Architecture:** Experienced with Slurm or similar workload managers to optimize job scheduling and resource allocation.
+- **Advanced Hardware:** Familiarity with NVIDIA Base Command Manager (BCM) and GPU-accelerated computing is highly desirable.
+
+**This is not a 100% remote position, you must be legally authorized to work in the United States.**
+
+---
+
+## 12. HPC Engineer - Formula 1 Team
+
+**Company:** Confidential Formula 1 Team
+
+**Location:** United Kingdom
+
+We are looking for a talented HPC Engineer to help push the boundaries of simulation, aerodynamics, and data-driven decision-making. If you thrive in high-pressure environments, love solving complex computational challenges, and want your work to directly influence on-track results, this is your opportunity.
+
+- Develop, maintain, and optimise the team's High-Performance Computing infrastructure to support CFD, simulation, and analytics workloads.
+- Collaborate closely with Aerodynamics, CFD, and Software Engineering departments to ensure seamless workflow execution.
+- Benchmark, tune, and troubleshoot performance issues across clusters, schedulers, interconnects, storage, and compute nodes.
+- Support the deployment and scaling of engineering applications, including CFD solvers and data-processing tool chains.
+- Implement monitoring, alerting, and automation to enhance reliability and efficiency.
+- Contribute to long-term HPC roadmap planning, including hardware refresh cycles and architectural improvements.
+
+**Requirements:**
+- Proven experience in HPC system administration or engineering within scientific, automotive, aerospace, or similar high-performance environments.
+- Strong knowledge of Linux systems, cluster management, job schedulers (e.g., Slurm, PBS, LSF), and parallel computing.
+- Experience with profiling, optimisation, and troubleshooting MPI/OpenMP-based applications.
+- Familiarity with HPC networking, storage, security, and performance tuning.
+- Proficiency in scripting languages (Python, Bash, etc.).
+- Excellent problem-solving skills and ability to work effectively in a fast-paced, mission-critical environment.
+
+**Desirable:**
+- Experience using or supporting large-scale HPC environments.
+- Knowledge of CFD workflows, meshing strategies, and solver tuning.
+- Cloud-based HPC experience.
+- Exposure to containerisation (Singularity/Apptainer, Docker) or orchestration technologies.
+- Experience optimising workloads on GPU-accelerated systems.
+
+---
+
+## 13. HPC Engineer - GBI (Genomics)
+
+**Company:** GBI
+
+**Location:** Remote
+
+Working as part of a new Scientific Computing team within GBI, the HPC Engineer will help operate, improve, and scale the data and computing platform that will enable cutting-edge research in engineering biology. This is a broad, hands-on role at the interface of Linux systems, high-performance computing, cloud infrastructure, Kubernetes, Slurm, storage, monitoring, and researcher support.
+
+**Key Responsibilities:**
+- Operate, maintain, and improve GBI's hybrid HPC platform, including Linux-based compute environments, Slurm/Slinky workloads, Kubernetes/OKE services, Open OnDemand, GPU and CPU partitions, and shared storage.
+- Help provision, configure, scale, and validate compute, storage, networking, and platform services using infrastructure as code, configuration management, and automation tools such as Terraform, Helm and Ansible.
+- Monitor platform health, capacity, job scheduling, GPU utilisation, storage behaviour, and network performance; investigate issues using tools such as Prometheus and Grafana.
+- Support researchers in using our Scientific Computing Platform, including triaging user issues and translating common pain points into platform improvements.
+
+**Essential Requirements:**
+- Bachelor's or Master's degree in Computer Science, Computational Biology, Engineering, Physics, Mathematics, or a related discipline, or equivalent practical experience.
+- Hands-on experience supporting or administering Linux-based systems in an HPC, cloud, research, academic, or production environment.
+- Working knowledge of HPC or batch-computing concepts, including schedulers, resource requests, queues/partitions, shared filesystems, and multi-user compute environments; Slurm experience is preferred.
+- Ability to troubleshoot issues across systems, networking, storage, identity, containers, schedulers, and user workloads.
+
+---
+
+## 14. Senior HPC Engineer - ASRC Federal (NASA NACS)
+
+**Company:** ASRC Federal InuTeq
+
+**Location:** NASA Ames / Goddard / Other NASA Sites
+
+ASRC Federal is looking for a Senior HPC Engineer, as ASRC Federal InuTeq provides High Performance Computing services across the full HPC lifecycle including computational requirements, architecture, acquisition, and operations for federal government customers. This senior role supports the NASA NACS High Performance Computing contract by delivering continuous architectural enhancements and operational excellence.
+
+**Key Responsibilities:**
+- Design, deploy and maintain HPC clusters with over 2000+ nodes with InfiniBand, 100+ petabytes of data storage in production.
+- Shepherd and/or contribute to scalable feature designs through the entire software development process.
+- Designs and develops scripts for system administration, monitoring and usage reporting.
+- Troubleshoots, isolates and resolves application, system and other technical problems (hardware, software, and network).
+- Understands research use cases, researches and deploys new technologies, defining cost, performance and other trade-offs.
+- Manages and maintains tools for provisioning, configuration management (HPCM, Ansible & GIT), resource management, scheduling and all necessary aspects of HPC.
+
+**Requirements:**
+- Bachelor's degree in computer science or related field.
+- A minimum of 10 years of experience in the administration of HPC systems and scheduling software (PBS, Slurm, or Moab/Torque).
+- A minimum of 10 years of experience of systems programming in heterogeneous, multi-platform HPC environments.
+- Demonstrated equivalence of 5 years of Linux/UNIX user support experience.
+- Superior scripting skills in at least Python, Perl, or Bash.
+
+**Pay Range:** $140,000 - $160,000
+
+---
+
+## 15. Junior HPC Engineer
+
+**Company:** Confidential
+
+**Location:** Italy
+
+**Posizione: Junior HPC Engineer**
+
+La risorsa entrerà a far parte del team infrastrutturale HPC e collaborerà alla gestione e ottimizzazione di ambienti HPC dedicati a simulazioni, calcolo scientifico, AI/ML e workload ad alte prestazioni.
+
+**Attività principali:**
+- Supportare la gestione e il monitoraggio di infrastrutture HPC on-premise e cloud
+- Collaborare all'installazione, configurazione e manutenzione di cluster Linux
+- Supportare attività di troubleshooting sistemistico e performance tuning
+- Gestire job scheduler e ambienti di calcolo distribuito
+- Collaborare con team AI e engineering per ottimizzare workload computazionali
+- Supportare attività di automazione infrastrutturale e scripting
+
+**Requisiti:**
+- Conoscenza di sistemi operativi Linux
+- Familiarità con networking TCP/IP e infrastrutture IT
+- Conoscenza di ambienti virtualizzati e/o containerizzati
+- Capacità di scripting (Bash, Python o simili)
+- Interesse verso infrastrutture HPC, AI Infrastructure e sistemi distribuiti
+
+**Costituiscono titolo preferenziale:**
+- Conoscenza di scheduler HPC (Slurm, PBS, LSF)
+- Esperienza universitaria o personale con cluster Linux
+- Familiarità con GPU computing (NVIDIA CUDA)
+
+---
+
+## 16. Senior HPC Engineer (Classified) - ORNL
+
+**Company:** Oak Ridge National Laboratory
+
+**Location:** Oak Ridge, TN
+
+The Field Intelligence Operations Division invites candidates to apply to join the team as a Senior High Performance Computing (HPC) Engineer for Classified Computing to lead the design, implementation, and management of HPC systems within a classified environment.
+
+**Major Duties/Responsibilities:**
+- HPC System Design and Architecture: Lead the design and deployment of HPC systems, ensuring they meet the computational needs and security requirements of a classified environment.
+- Cluster Management and Optimization: Oversee the installation, configuration, and management of HPC clusters, ensuring optimal performance, scalability, and reliability.
+- Security and Compliance: Ensure all HPC systems comply with security policies and regulatory requirements.
+- Performance Tuning and Troubleshooting: Monitor and optimize the performance of HPC systems, identifying and resolving bottlenecks and inefficiencies.
+
+**Basic Qualifications:**
+- BS in computer science, engineering, or a related field and a minimum eight (8) years of relevant experience.
+- Eight (8) years of experience in HPC engineering, with a focus on cluster management, parallel computing, and performance optimization.
+- Demonstrated experience working in classified environments.
+- HPC systems architecture experience, including cluster management tools (e.g., SLURM, PBS, Moab).
+
+**Special Requirements:**
+This position requires the ability to obtain and maintain a Secret Compartmented Information (SCI) clearance from the Department of Energy.
+
+---
+
+## 17. HPC / GPU Cluster Engineer
+
+**Company:** Confidential
+
+**Location:** Remote
+
+We are looking for an HPC / GPU Cluster Engineer to help design, operate, and continuously optimize our large-scale GPU compute environment used for distributed model training and high-performance workloads. You will own the performance and reliability of the cluster end to end — from the GPUs and interconnect fabric up through the storage layer, scheduler, monitoring, and the tooling that keeps hundreds of accelerators running efficiently.
+
+**Qualifications:**
+- Experience operating large GPU or HPC clusters in production, identifying performance bottlenecks and resolving them systematically.
+- Hands-on experience with RDMA programming and low-level RDMA debugging, including RDMA verbs / libibverbs.
+- InfiniBand RoCEv2, GPUDirect RDMA, GPUDirect Storage, NCCL, CUDA driver and OFED.
+- Practical experience with technologies underpinning distributed training, including InfiniBand and/or RoCEv2.
+- Experience with workload schedulers such as Slurm, including setup, configuration, queue/partition management.
+- Lustre, BeeGFS, WEKA, VAST, DDN/ExaScaler, or similar systems experience.
+- Solid scripting/programming ability in Python, Bash, and preferably C/C++.
+
+---
+
+## 18. HPC Engineer - Sabre (DoD)
+
+**Company:** Sabre Systems, LLC
+
+**Location:** Arlington, VA (Onsite)
+
+**Salary Range:** $90,000 - $200,000
+
+Sabre is seeking an HPC Data Storage Engineer to support a mission-critical Department of Defense (DoD) program dedicated to high-performance computing operations. As an HPC Engineer, you will design, optimize, and maintain advanced high-performance computing environments that power large-scale data processing, simulation, and research operation.
+
+**Duties include but not limited to:**
+- Apply comprehensive knowledge of High Performance Computing (HPC) systems, comprised of high-speed, multi-petabyte Lustre file systems, Red Hat Enterprise Linux (RHEL) servers, CPU/GPU compute nodes, and high performance storage arrays.
+- Provide functional and technical expertise in support of user-developed software.
+- Diagnose and troubleshoot technical problems associated with computer hardware and software interrelationships.
+- Develop functional and technical IT system requirements and specifications.
+- Configure and optimize system tools and applications, to include job schedulers (Slurm and PBSPro).
+
+**Clearance Requirements:**
+- This position requires an active Top Secret DoD security clearance (U.S. Citizenship Required)
+
+---
+
+## 19. HPC Engineer - CoreWeave
+
+**Company:** CoreWeave
+
+**Location:** Remote (US/Europe)
+
+We are looking for an HPC Engineer to deploy, operate, troubleshoot, and improve these platforms across our global data center footprint. This role is a strong fit for engineers who enjoy production troubleshooting, hardware-adjacent systems work, automation, observability, and learning specialized infrastructure deeply.
+
+**What You Will Do:**
+- Deploy, operate, and support NVLink/NVSwitch platforms across large data center environments.
+- Troubleshoot Linux, networking, hardware, firmware, performance, and stability issues in production.
+- Build automation and improve runbooks, dashboards, alerts, and lifecycle workflows.
+- Collaborate with teams across CoreWeave, external vendors, and customer-facing stakeholders.
+- Participate in on-call, incident response, root cause analysis, and follow-up improvements.
+
+**What We Are Looking For:**
+- Strong Linux system administration and troubleshooting skills.
+- Networking fundamentals and common troubleshooting tools.
+- Production debugging experience using logs, metrics, and command-line tools.
+- Server, network, GPU, or data center hardware troubleshooting experience.
+- Practical scripting or automation experience in Python, Go, Bash, or similar.
+- Curiosity to learn specialized GPU interconnect technologies such as NVLink, NVSwitch, and InfiniBand.
+
+**Salary Range (UK):** £79,000 - £105,000
+
+---
+
+## 20. HPC Platform Engineer - Lilly
+
+**Company:** Eli Lilly
+
+**Location:** Remote (US)
+
+The Cloud and Connectivity organization is seeking an HPC Platform Engineer. This role will focus on enabling analytical, statistical, and scientific computing capabilities within Lilly's high performance computing infrastructure.
+
+**What You'll Be Doing:**
+- You will be a leader the engineering and operations of design, build, and maintain scalable HPC platforms.
+- You will play a crucial role in enabling Lilly's HPC infrastructure and experiences.
+- Collaborate with researchers and scientists to optimize performance and streamline workflows.
+- Leverage tooling and automation for orchestration, resource scheduling, data access, and reproducibility.
+- Evolve and operate public cloud and on-premises environments with a focus on availability and performance for HPC workloads.
+
+**What You Should Bring:**
+- Hands-on experience in HPC platforms, including knowledge of accelerators (e.g., GPU), HPC schedulers (e.g., Altair Grid Engine, Slurm), Kubernetes platforms, and containers technologies (Docker, Apptainer).
+- Demonstrated experience in HPC workloads, infrastructure, and cluster architectures.
+- Expertise with the Linux command line, Linux troubleshooting, and HPC administration.
+- Experience with DevOps tools such as Github, Chef, Ansible, and Terraform.
+
+**Basic Requirements:**
+- Bachelor's degree in Computer Science, Information Technology, or related technical field.
+- 5+ years' experience as an HPC Platform Engineer.
+
+---
+
+## 21. High Performance Compute (HPC) Engineer - TENICA
+
+**Company:** TENICA
+
+**Location:** Springfield, VA
+
+TENICA is looking to hire High Performance Compute (HPC) engineer.
+
+**High Performance Computer (HPC) Engineer:**
+- A strong experience with working on Linux systems
+- Experience with building and deploying containerized, GPU-enabled applications in Docker, Singularity, or Kubernetes
+- Experience with orchestration and cluster management tools, including Slurm, Mesos, or Moab
+- Experience with AI and Machine Learning Development Tool Sets, including Jupyter, Keras, TensorFlow, MPI, OpenMP, OpenCL, or CUDA
+- Lustre and Infiniband maintenance and troubleshooting
+- Experience with deploying systems in both on-premise and Cloud environments, including AWS, Azure, or Google
+- Server hardware maintenance and troubleshooting
+- RHEL and CentOS administration and ACE cluster administration for HPC clusters
+
+---
+
+## 22. HPC Engineer - Rescale
+
+**Company:** Rescale
+
+**Location:** Remote (US)
+
+**Salary Range:** $100,000 - $150,000
+
+We are seeking an *HPC Engineer* to join our team!
+
+**What You'll Do:**
+- Become an expert in the Rescale platform and its application to customer workflows.
+- Deliver deep technological solutions and support related to some of Rescale's most powerful features.
+- Publish, manage and optimize complex HPC software for our most demanding customers.
+- Develop and implement processes and best practices associated with HPC services and support.
+- Advocate customer needs internally and working collaboratively with the sales, product and engineering teams.
+- Provide technical support to our customers, independent software vendors and strategic partners.
+
+**What We're Looking For:**
+- 5+ years experience with HPC Systems and HPC Applications
+- Experience with Linux/Unix and Windows operating system environments
+- Experience with scripting languages like Bash and Python
+- Familiarity with cloud computing platforms such as AWS, Azure or Google Cloud
+- High-level knowledge of HPC, schedulers, MPI, containers, kubernetes, and GPU computing
+- Familiarity with scientific computing libraries and tools like OpenMP and CUDA
+- BS/BA degree in Engineering, Computer Science, or related field
+
+---
+
+## 23. Senior AI/HPC Engineer - NVIDIA
+
+**Company:** NVIDIA
+
+**Location:** Various (US/Global)
+
+NVIDIA is looking for a Senior AI/HPC Engineer to join its infrastructure Specialist team. Academic and commercial groups around the world are using NVIDIA products to revolutionize deep learning and data analytics, and to power data centers.
+
+**What You Will Be Doing:**
+- Primary responsibilities will include deploying, managing, and maintaining AI/HPC infrastructure in Linux-based environments for new and existing customers.
+- Be the domain expert with customers during planning calls through implementation.
+- Handover-related documentation and perform knowledge transfers required to support customers.
+- Provide feedback to internal teams such as opening bugs, documenting workarounds, and suggesting improvements.
+
+**What We Need To See:**
+- Bachelor's degree in Computer Science, Electrical Engineering or a related field, or equivalent experience.
+- 4+ years providing in-depth support and deployment services.
+- Knowledge and experience with AI Factory / HPC, including Linux System Administration.
+- Cluster management technologies.
+- Scripting proficiency.
+- Experience with Schedulers such as SLURM, LSF, PBS, etc.
+
+---
+
+## 24. Senior Infrastructure HPC Engineer
+
+**Company:** Confidential
+
+**Location:** Remote (US)
+
+We are seeking an experienced Senior Infrastructure HPC Engineer who has personally designed, deployed, configured, and operated every component of a large-scale high-performance computing environment.
+
+**Key Responsibilities:**
+- Design, deploy, and maintain HPC clusters end-to-end: compute nodes, storage tiers, high-speed networking (InfiniBand / RoCE), and management fabric.
+- Personally, provision and administer NVIDIA Base Command Manager (BCM) for bare-metal cluster imaging.
+- Deploy and manage the full NVIDIA AI Enterprise Suite.
+- Deploy and operate NVIDIA GPU Operator and Network Operator on Kubernetes.
+- Install, administer, and tune Slurm: partitions, QOS, fair-share policies, node accounting, MPI integration.
+- Bootstrap and operate Kubernetes clusters using kubeadm.
+- Administer RHEL / Canonical Ubuntu across all cluster nodes.
+- Build and maintain CI/CD pipelines for infrastructure provisioning.
+- Profile and tune GPU and CPU workload performance.
+
+---
+
+## 25. HPC Engineer - AI Infrastructure (GPU Cloud)
+
+**Company:** Confidential GPU Cloud Provider
+
+**Location:** Remote (US)
+
+**Salary:** To $190,000 + 25% Bonus + RSUs
+
+**About the role:**
+
+I'm partnering with a fast-growing GPU cloud provider hiring an HPC Engineer to be their in-house subject matter expert on high-performance computing. You'll own the performance of large-scale GPU clusters running into the thousands of GPUs.
+
+**What you'll do:**
+- Architect, deploy and manage HPC job scheduling and resource management (primarily Slurm) across large GPU clusters (H100, B200)
+- Optimise NCCL configuration, collective communication patterns and multi-node interconnect performance
+- Design cluster provisioning and management workflows for GPU nodes
+- Build monitoring and profiling for HPC workloads
+- Work with customers and internal teams to troubleshoot distributed training issues
+- Support customers directly with technical consultation, troubleshooting and onboarding
+
+**What they're looking for:**
+- 5+ years in HPC operations, GPU cluster management or high-performance infrastructure engineering
+- Deep hands-on Slurm experience
+- Strong understanding of NCCL, collective operations and GPU-to-GPU communication topologies
+- Experience managing NVIDIA GPU infrastructure at scale
+- Proficiency with HPC container runtimes: Enroot, Pyxis, Singularity/Apptainer
+
+---
+
+## 26. HPC Engineer - Elite HFT Firm - Dubai
+
+**Company:** Elite HFT Firm
+
+**Location:** Dubai, UAE
+
+**Salary:** Up to $275,000 Tax-Free Total Compensation
+
+I'm working with an elite HFT firm in Dubai hiring a strong HPC Engineer to join their infrastructure team.
+
+**What you'll be working on:**
+- Designing and scaling high-performance compute infrastructure supporting live trading systems
+- Optimising CPU, memory, and network performance across a latency-sensitive environment
+- Managing and evolving GPU and parallel compute resources for research and trading workloads
+- Building and automating tooling to monitor, tune, and maintain HPC systems at scale
+- Collaborating directly with trading and engineering teams
+
+**What they're looking for:**
+- Strong HPC engineering background
+- Deep Linux expertise and low-level systems knowledge
+- Experience with performance profiling, tuning, and optimisation
+- Scripting proficiency in Python or Bash
+- HFT, quant finance, or similarly demanding environment experience a strong plus
+
+**What's on offer:**
+- Up to $250,000 fully tax-free total compensation
+- Relocation support to Dubai
+- Lean, meritocratic culture
+
+---
+
+## 27. Senior HPC Engineer - Texas A&M University
+
+**Company:** Texas A&M University
+
+**Location:** College Station, TX (Onsite)
+
+**Salary:** $130,000 - $140,000 annually
+
+**Job Description:**
+
+We are making a bold leap into the future of artificial intelligence with a $45 million investment in an NVIDIA DGX SuperPOD. As a Senior High Performance Computing Engineer (HPC), you will provide technical expertise and consultation for the design and deployment of HPC systems.
+
+**Opportunities to Contribute:**
+- Manage large-scale HPC cluster operations, including OS upgrades, firmware patching, and performance tuning.
+- Oversee networking, security, and infrastructure for HPC systems.
+- Lead the development of specialized HPC computing clouds and scalable storage systems.
+- Collaborate with stakeholders to develop service-based solutions.
+- Lead enterprise-wide HPC projects using established project management protocols.
+- Mentor junior system administrators and enforce performance standards.
+
+**Qualifications:**
+- Bachelor's degree in applicable field or equivalent combination of education and experience
+- 12 years of related experience
+- Experience with High Performance Computing (HPC) environments
+- Advanced Linux system administration skills
+- Proficiency with Slurm workload manager
+- Experience working with NVIDIA DGX systems
+
+**Citizenship:** Must be a United States citizen, permanent resident, or a person granted asylum or refugee status.
+
+---
+
+## 28. Staff HPC Engineer
+
+**Company:** Confidential (Research Institute)
+
+**Location:** San Francisco, CA (Hybrid - 3 days/week)
+
+**Salary Range:** $214,000 - $268,000 (Staff) / $241,000 - $300,000 (Senior Staff)
+
+We seek a Staff HPC Engineer to help lead the evolution of our advanced computing infrastructure into a next-generation hybrid HPC and AI platform. This role will help shape strategy, architecture, and operations for high-performance computing resources — including cutting-edge GPUs, large-scale storage, and high-speed networks — while enabling transformative science through AI and machine learning at scale.
+
+**What You'll Do:**
+- Build and support a hybrid HPC-AI environment with large-scale on-prem compute/storage and elastic cloud GPU clusters.
+- Architect and optimize environments for large-scale AI training and tuning, and low-latency scientific workloads.
+- Integrate MLOps and model deployment pipelines into HPC infrastructure.
+- Implement advanced resource scheduling and orchestration (Slurm, Kubernetes, SUNK).
+- Support researchers with job optimization, GPU utilization best practices, and performance tuning.
+
+**What You'll Bring:**
+- Bachelor's or advanced degree in Computer Science, AI/ML, Data Science, Systems Engineering, or related field.
+- 10+ years building and managing HPC infrastructure, with significant experience integrating AI/ML workloads.
+- Deep expertise with HPC scheduling (Slurm), container orchestration (Kubernetes), and cloud GPU services.
+- Strong hands-on experience with AI frameworks (PyTorch, TensorFlow, JAX) and distributed training strategies.
+- Advanced Linux systems administration, HPC networking (Infiniband, Ethernet), and storage systems administration.
+
+---
+
+## 29. High Performance Computer Engineer - GovCIO (HHS)
+
+**Company:** GovCIO
+
+**Location:** Remote (US)
+
+**Salary Range:** $150,000 - $190,000
+
+GovCIO is currently working on a proposal with HHS and we are looking for a High Performance Computer Engineer.
+
+**Responsibilities:**
+- Collaborate with researchers, data scientists, and engineers to optimize applications and workflows for HPC environments.
+- Analyze computational workloads and provide guidance on parallelization strategies, job scheduling, and resource allocation.
+- Support and tune HPC cluster environments including compute nodes, GPUs, high-speed interconnects, and parallel file systems.
+- Assist researchers with porting, compiling, and optimizing scientific codes using parallel programming models such as MPI, OpenMP, CUDA.
+- Monitor HPC system utilization and performance metrics to identify opportunities for optimization.
+
+**Qualifications:**
+- Bachelor's with 15+ years (or commensurate experience)
+- Experience working with HPC environments, cluster computing, or large-scale research computing platforms.
+- Understanding of GPU computing, containerization (Docker/Singularity), and modern HPC architectures.
+- Strong analytical and problem-solving skills related to performance tuning and computational optimization.
+
+---
+
+## 30. Lead Systems HPC Engineer
+
+**Company:** Confidential (Hyperscaler)
+
+**Location:** Remote (US)
+
+**Salary Range:** $170,000 - $300,000 OTE + Equity
+
+We are looking for a Lead Systems HPC Engineer to play a key role in building our hyperscaler platform, working across its core components while analyzing and optimizing the performance of large-scale GPU clusters at the intersection of hardware and software.
+
+**In this role you will:**
+- Focus on understanding system behavior across multiple layers, identifying performance bottlenecks, and driving improvements.
+- Investigate and troubleshoot performance issues of GPU cluster under real workloads (training and inference)
+- Evaluate and integrate new hardware, system configurations and tuning approaches through software stack
+- Support complex performance-related escalations from internal teams and customers
+- Work closely with infrastructure, software engineering and hardware vendor teams
+
+**We expect you to have:**
+- 5+ years of professional experience in system-level software development
+- 3+ years of hands-on experience with Linux systems (administration, troubleshooting, and performance tuning)
+- In-depth understanding of server architecture, including PCIe devices, NICs, Linux OS/Kernel, and HPC systems
+- Strong proficiency in one or more performance-oriented programming languages (C/C++, Go, Python)
+
+---
+
+## 31. HPC Operations Engineer - Arm
+
+**Company:** Arm
+
+**Location:** Remote (US/UK)
+
+**Salary Range:** $130,100 - $176,000 (US)
+
+We are looking for an HPC Operations Engineer to help run, improve, and modernize these services. This role combines production operations, site reliability engineering, automation, cloud integration, and close collaboration with engineering users and infrastructure teams.
+
+**Responsibilities:**
+- Operate, support, and continuously improve Arm's HPC platforms, with a solid focus on IBM Spectrum LSF and related job scheduling services.
+- Improve reliability, scalability, performance, and operational efficiency through automation, observability, standardization, and SRE practices.
+- Develop automation and self-service capabilities to reduce manual operational effort.
+- Support production HPC environments, including incident response, root cause analysis, and continuous improvement.
+- Work directly with engineering users to improve job scheduling behavior, workload performance, and resource utilization.
+- Contribute to cloud HPC integration across AWS, GCP, Azure, OpenStack, and hybrid environments.
+
+**Required Skills and Experience:**
+- Experience operating HPC environments and job schedulers such as IBM Spectrum LSF, Slurm, PBS, Grid Engine, or similar.
+- Strong Linux system administration experience.
+- Good scripting and automation skills using Python, Bash, Shell, or similar languages.
+- Experience supporting production infrastructure, including incident management and operational recovery.
+- Familiarity with monitoring, alerting, and observability platforms such as Dynatrace, Prometheus, Grafana.
+
+---
+
+## 32. HPC Engineer - OPS Consulting
+
+**Company:** OPS Consulting
+
+**Location:** Laurel, MD (Onsite)
+
+We are looking for an HPC Engineer to join a growing team in Laurel, MD. As a Senior Systems Engineer at OPS consulting, you will provide portfolio level advisory support to the customer, facilitating the development, acquisition and support of complex systems.
+
+**Responsibilities:**
+- Contribute to the development of sections of systems engineering documentation.
+- Manage system requirements and derived requirements.
+- Assist with the development of system requirements, functional requirements, and allocation.
+- Coordinate the resolution of action items from Configuration Control Board (CCB) meetings.
+- Participate in an Integrated Product Team to design new capabilities.
+- Develop system design solution that satisfies the system requirements.
+- Implement comprehensive SOA solutions.
+- Establish a process to formally and proactively control and manage changes to requirements.
+
+**Requirements:**
+- A minimum of 14 years of experience.
+- A bachelor's degree in a technical discipline such as: Engineering, Systems Engineering, Computer Science, Information Systems, Engineering Science, Engineering Management, or related field.
+
+**Desired Experience:**
+- High Performance Computing systems engineering experience
+- Systems Architecture development experience
+- Hardware and Software Design
+
+---
+
+## 33. HPC Engineer - Dallas Forth-Worth, TX
+
+**Company:** Confidential (AI Cloud Provider)
+
+**Location:** Dallas-Forth Worth, TX (Onsite)
+
+We are a high-growth AI cloud service provider, delivering large-scale GPU clusters for AI training and inference. Our vertically integrated platform is underpinned by a portfolio of grid-connected land and data centers in renewable-rich regions across the U.S. and Canada.
+
+**Requirements:**
+- 2+ years HPC cluster ops in IOC/NOC environment (incident triage, change execution)
+- Kubernetes (bare-metal a plus) — triage workloads, cluster state
+- Slurm workload manager — job triage, queue/node health checks
+- HPC monitoring/logging/runbooks
+- Incident response & root cause analysis
+- Cloud platforms (AWS/Azure/GCP) integration with on-prem HPC
+- HPC networking/storage (InfiniBand/Ethernet, Weka/VAST, high-throughput interconnects)
+
+**Benefits:**
+- Competitive base + annual incentive + equity
+- 100% company-paid medical/dental/vision
+- 401(k) with company match
+- PTO + paid holidays
+
+---
+
+## 34. Senior HPC Engineer - Millennium
+
+**Company:** Millennium
+
+**Location:** New York, NY
+
+**Salary Range:** $175,000 - $250,000
+
+We are seeking a Senior HPC Engineer to join our team in a senior, hands-on role building and evolving large-scale, high-throughput HPC and GPU platforms that underpin AI- and machine-learning-driven research.
+
+**What You'll Do:**
+- Design, build, and operate large-scale, high-throughput HPC and GPU clusters (e.g., tens of thousands of CPU cores and hundreds of GPUs).
+- Collaborate with other HPC engineers and subject-matter experts to co-design system architectures.
+- Partner with storage specialists to architect and maintain high-performance, low-latency storage solutions.
+- Work closely with researchers, data scientists, and engineers to understand computational needs.
+- Monitor, analyze, and optimize performance across compute, scheduling, networking, and storage layers.
+- Build and maintain automation and infrastructure-as-code.
+
+**What You'll Bring:**
+- Bachelor's degree in Computer Science, Engineering, or a related technical field.
+- Typically 7+ years of hands-on experience designing, building, and operating HPC or large-scale compute environments.
+- Deep, practical experience with at least one major HPC scheduler (such as Slurm).
+- Hands-on experience with GPU-accelerated computing, including NVIDIA GPUs.
+- Strong Linux systems engineering skills.
+
+---
+
+## 35. Senior HPC Engineer - Baylor Genetics
+
+**Company:** Baylor Genetics
+
+**Location:** Houston, TX
+
+We are seeking a Senior HPC Engineer with deep hands-on experience in high-performance computing (HPC), hybrid cloud infrastructure, and large-scale genomic data platforms. This role will design, build, and operate scalable, high-throughput computing environments supporting clinical and research bioinformatics workflows.
+
+**Key Responsibilities:**
+- Lead the design and operation of scalable HPC infrastructure supporting bioinformatics pipelines.
+- Develop and maintain production genomic analysis pipelines using Nextflow and related workflow tools.
+- Oversee deployment and optimization of large-scale NGS analysis workflows.
+- Manage and mentor a team of bioinformatics engineers and computational scientists.
+- Collaborate with lab directors/genomic scientists, bioinformaticians, and IT teams.
+
+**Qualifications:**
+- PhD in Bioinformatics, Computational Biology, Computer Science, or related field preferred.
+- 8+ years' experience in bioinformatics software engineering, computational genomics, or related field.
+- 4+ years' experience leading or mentoring bioinformatics or software engineering teams.
+- Strong experience managing High Performance Computing (HPC) environments.
+- Hands-on experience with HPC workload schedulers such as Slurm.
+- Deep experience developing scalable workflow pipelines using Nextflow.
+- Strong programming skills in Python, Bash, and/or R.
+
+---
+
+## 36. HPC Technologist
+
+**Company:** Confidential
+
+**Location:** Spain
+
+Por eso, si tienes experiencia en HPC, soluciones de alto rendimiento etc. nos comprometemos a potenciar tu talento, impulsar tu desarrollo profesional y hacerte sentir como en casa.
+
+**¿Qué buscamos?**
+- Experiencia en segmentación multi-tenant de infraestructura (cómputo, almacenamiento, red y seguridad).
+- Experiencia con plataformas de contenedores empresariales (por ejemplo Kubernetes/OpenShift) con aceleración GPU, RDMA, SR-IOV.
+- Experiencia en virtualización avanzada para IA, incluyendo GPU Passthrough, NVIDIA vGPU/MIG.
+- Experiencia con orquestación HPC y planificación de trabajos de IA, incluyendo Slurm o equivalentes.
+
+---
+
+## 37. HPC Technologist - Hybrid HPC Environment
+
+**Company:** Confidential
+
+**Location:** Europe
+
+We're looking for an experienced High Performance Computing (HPC) Technologist who wants to design, operate, and evolve a cutting-edge hybrid HPC environment to power research and teaching.
+
+**Your tasks and responsibilities:**
+- Design, maintain, optimize, and troubleshoot hybrid HPC systems.
+- Implement and manage HPC-related software stacks (e.g. schedulers, remote access).
+- Create documentation and guide researchers through project planning, development, and testing.
+- Collaborate with research teams on interdisciplinary projects.
+- Contribute to grant writing, research proposals, and technical documentation.
+
+**Your strengths and skills:**
+- Academic degree in Computer Science, Information Technology, Engineering or a related field.
+- 5+ years of professional experience in the High Performance Computing field.
+- Systems: Strong knowledge of Linux/Unix, hybrid HPC approaches, and IT Infrastructure.
+- Scheduling and tooling: Experience with cluster management tools and schedulers (e.g. SLURM).
+- Programming: Proficiency in multiple languages such as Python and C++.
+- Architecture: Knowledge of CPU and GPU architectures.
+- English skills on minimum level C1.
+
+---
+
+## 38. HPC Cluster Architect - Nexgen Cloud
+
+**Company:** NexGen Cloud
+
+**Location:** UK (Remote)
+
+**Reporting to:** Head of Infrastructure
+
+**About Nexgen Cloud:**
+
+NexGen Cloud is the company behind Hyperstack, a full-stack AI cloud serving tens of thousands of customers from AI researchers to enterprises running the world's most compute-intensive workloads.
+
+**THE ROLE: HPC Cluster Architect**
+
+This role exists because NexGen Cloud is winning large-scale dedicated GPU cluster contracts and needs someone who can own the full architecture cycle — from first customer conversation to production deployment.
+
+**What You'll Be Doing:**
+- Own end-to-end cluster architecture for large-scale NVIDIA GPU deployments.
+- Design high-performance network fabrics across compute (InfiniBand, RDMA, NVLink/NVSwitch).
+- Engage directly with OEMs and vendors.
+- Provide technical oversight during deployment and bring-up.
+- Act as a senior technical leader across Solutions Architecture, Cloud Engineering, and data centre partners.
+
+**About You:**
+- Proven experience designing and delivering GPU-based HPC or AI clusters at scale.
+- Deep hands-on knowledge of NVIDIA GPU platforms (H100/H200/B-series).
+- Strong InfiniBand/RDMA design experience.
+- Solid grounding in Linux systems, PCIe topology, NUMA alignment.
+
+---
+
+## 39. HPC Specialist Architect - AWS Energy & Utilities
+
+**Company:** Amazon Web Services (AWS)
+
+**Location:** Various (US/EMEA)
+
+AWS is looking for a HPC Specialist Architect for the Energy & Utilities Business Unit, who will be a subject matter expert helping customers design solutions that leverage our HPC services.
+
+**Key job responsibilities:**
+- Customer Advisor: Interact closely with our customers. Implement and deploy state of the art HPC solutions.
+- Thought Leadership: Evangelize AWS HPC services and share best practices through forums such as AWS blogs, white-papers, reference architectures.
+- Create field enablement materials for the broader SA population.
+- Act as a technical liaison between customers and the AWS product teams.
+
+**Basic Qualifications:**
+- Bachelor's degree in computer science, engineering, mathematics or equivalent.
+- Development experience with HPC frameworks for workloads in a domain such as oil and gas, automotive/aerospace, financial services or pharmaceuticals.
+- Experience in architecting an HPC platform with scheduling middleware (e.g. Slurm, Torque, Symphony or GridServer).
+
+**Preferred Qualifications:**
+- Master's degree or equivalent.
+- Performance optimization experience with computationally intensive applications.
+- Expertise in parallel programming models (MPI, OpenMP) and GPU programming using CUDA.
+- AWS technical proficiency.
+
+---
+
+## 40. Linux Systems Administrator - HPC - Turin, Italy
+
+**Company:** Do IT Now
+
+**Location:** Turin, Italy (Remote within Italy after probation)
+
+**Salary Range:** €30,000 - €40,000
+
+**Job description:**
+
+Do IT Now is looking for a passionate and very proactive Linux Systems Administrator to join HPC support team.
+
+The ideal candidate will be responsible for Installation, configuration and maintenance of HPC systems based on GNU/Linux distributions as well as all related software components.
+
+**Skills and Experience:**
+- High school diploma or degree in Computer Science, Computer Engineering or similar.
+- 5+ years of experience in similar roles.
+- Fluent English and Italian.
+- Good knowledge of Linux Enterprise distributions (RedHat EL, SLES, etc.)
+- Knowledge Backup and Scripting with Bash and Python.
+
+**Technical skills and experience:**
+- Linux Enterprise distributions (RedHat EL, SLES, etc.)
+- Networking: Switching, VLAN, FireWall
+- Monitoring Systems: Zabix, Nagios
+- Parallel File System (Lustre, BeeGFS, GPFS, CEPH, etc.)
+- HPC Scheduler: PBS, LSF, SLURM etc.
+- Docker, Singularity, R.H. Container
+- Deployment tools: Xcat, Bright Cluster Manager
+- Automations Tools: Ansible, Puppet
+
+---
+
+## 41. HPC / GPU Cluster Engineer - European - REMOTE
+
+**Company:** Confidential (Neo-Cloud)
+
+**Location:** Europe (Remote)
+
+We're working with a market-leading Neo-Cloud company specialising in AI infrastructure and GPU engineering. Operating globally and expanding at pace, they are redefining how high-performance compute is delivered at scale.
+
+**Key Responsibilities:**
+- Design, deploy, and operate large-scale GPU clusters
+- Manage and optimise GPU scheduling and resource utilisation
+- Performance benchmarking and tuning for AI / HPC workloads
+- Work with SLURM, Kubernetes, and hybrid orchestration environments
+- Troubleshoot performance, scalability, and reliability issues
+- Contribute to SRE practices: monitoring, automation, incident response
+
+**Skills & Requirements:**
+- Strong experience with GPU cluster engineering at scale
+- Hands-on knowledge of SLURM and/or Kubernetes for GPU workloads
+- Experience with performance benchmarking, profiling, and optimisation
+- Comfortable operating production systems in high-availability environments
+- Solid Linux background and strong scripting skills (Python, Bash, etc.)
+
+---
+
+## 42. Senior HPC Platform Engineer
+
+**Company:** Confidential
+
+**Location:** Remote (US)
+
+We are seeking a senior technical contributor to help support, modernize, and scale our on premise high performance computing platform. This role will work across Linux systems administration, HPC operations, Kubernetes-based services, automation, observability, software tooling, and user-facing platform delivery.
+
+**Key Responsibilities:**
+- Administer, troubleshoot, and improve RHEL based high performance computing environments.
+- Create and maintain HPC services across compute, storage, networking, scheduling, Kubernetes, and observability.
+- Develop tools, scripts, APIs, integrations, and automation using Python, Go, Bash, or similar languages.
+- Support and help update HPC scheduling environments, with Slurm experience preferred.
+- Improve monitoring, alerting, dashboards, and operational visibility using Grafana, Prometheus, Dynatrace.
+
+**Requirements:**
+- Bachelor's degree in Computer Science, Engineering, or related field, or equivalent experience.
+- 10+ years of experience in systems engineering, infrastructure engineering, platform engineering, or a related technical role.
+- Strong Linux systems administration experience, preferably with RHEL.
+- Experience with Slurm, PBS, or another HPC workload manager.
+- Experience creating APIs, applications, and services that support platform operations.
+
+---
+
+## 43. HPC / GPU Infrastructure Engineer - FirstPrinciples
+
+**Company:** FirstPrinciples
+
+**Location:** Remote (North America/Global)
+
+**About FirstPrinciples:**
+
+FirstPrinciples is a research organization building AI infrastructure for discovery in fundamental science. Currently, our work focuses on building systems like Theo, the AI Physicist, which is a domain-specialized system for research in fundamental physics.
+
+**Why This Role Exists:**
+
+We're building the next generation of infrastructure for AI-driven scientific discovery, and we need someone who can help own the systems that make our research and inference workloads reliable, scalable, and fast.
+
+**What You'll Do:**
+- Design, deploy, and operate Kubernetes infrastructure for AI inference, research, and engineering workloads.
+- Set up and manage GPU and HPC-style compute environments.
+- Work with systems such as Kubernetes, Slurm or similar schedulers, container runtimes, GPU drivers & libraries.
+- Build and manage Linux-based compute environments.
+- Help architect bare metal, cloud, and hybrid infrastructure across AWS, GCP, Azure, or equivalent platforms.
+- Own the reliability and operational health of infrastructure systems.
+
+**Who You Are:**
+- Strong infrastructure builder with experience operating production, research, cloud, or high-performance compute systems.
+- Deeply comfortable with Linux administration.
+- Experienced with Kubernetes in real environments.
+- Comfortable working with cloud infrastructure.
+- Familiar with infrastructure automation and configuration tools such as Terraform, Ansible, Helm, ArgoCD.
+
+---
+
+## 44. AI HPC Architect - TSMC
+
+**Company:** TSMC
+
+**Location:** Taiwan (Hsinchu)
+
+An AI (Artificial Intelligence) HPC (High-Performance Computing) architect is responsible for designing, developing, and implementing high-performance computing solutions with a specific focus on artificial intelligence and machine learning workloads.
+
+**Job responsibilities of AI HPC Architect:**
+1. Solution Design: Collaborate with stakeholders to translate requirements into effective AI HPC solutions.
+2. HPC Infrastructure Planning: Evaluate and select appropriate hardware, networking, and storage resources.
+3. Algorithm Optimization: Work with data scientists to identify opportunities for algorithm optimization.
+4. Performance Tuning: Optimize the performance of AI workloads by fine-tuning system configurations.
+5. Scalability and Resilience: Design solutions that can scale to handle large-scale AI workloads.
+6. Integration and Deployment: Collaborate with software engineers and DevOps teams.
+7. Research and Innovation: Stay up to date with the latest advancements in AI, machine learning, and HPC technologies.
+
+**Job Qualifications:**
+1. Strong Background in AI and Machine Learning.
+2. Expertise in High-Performance Computing.
+3. System Architecture and Design.
+4. Programming and Scripting Skills: Python, C++, or Java.
+5. HPC Tools and Frameworks: MPI, OpenMP, CUDA, or OpenCL.
+6. Performance Optimization experience.
+7. System Administration understanding.
+
+---
+
+## 45. HPC Storage and Compute Architect - KLA
+
+**Company:** KLA
+
+**Location:** Milpitas, CA / Ann Arbor, MI
+
+**Base Pay Range:** $129,600 - $220,300
+
+This role provides senior technical leadership for the architecture, deployment, and long‑term scalability of large‑scale HPC storage and compute platforms. It owns systems end‑to‑end from early architectural definition through full production.
+
+**Job Duties:**
+- Lead the design, implementation, and ongoing support of high‑performance compute (HPC) clusters.
+- Serve as a technical authority for HPC storage, with deep hands‑on expertise in parallel file systems such as Lustre, GPFS, and BeeGFS.
+- Apply sophisticated systems knowledge across CPU and GPU architectures.
+- Lead the creation of hardware BOMs for HPC clusters.
+- Design, configure, and optimize Linux operating systems for HPC environments.
+- Translate project specifications and performance requirements into subsystem and system‑level designs.
+
+**Qualifications:**
+- Proven experience with HPC systems and Linux platform.
+- Strong, distro‑agnostic Linux experience (Rocky, RHEL, SuSE, Ubuntu).
+- Strong scripting skills in Shell and Python.
+- Strong understanding of HPC hardware platforms (servers, GPUs, networking, storage, BIOS/BMC).
+- Experience with configuration management and automation (Salt, Ansible, Puppet, Chef, etc.)
+
+---
+
+## 46. Scientific Computing Administrator - General Atomics (DIII-D)
+
+**Company:** General Atomics
+
+**Location:** San Diego, CA
+
+**Salary Range:** $116,480 - $208,505
+
+We are seeking an ambitious Scientific Computing Administrator for the GA Energy Group to support the physicists and researchers at the DIII-D National Fusion Facility. General Atomics is pushing the boundaries of what is possible in fusion energy, and this role is critical to supporting the high-performance computing (HPC) workflows, Digital Twin projects, and advanced numerical modeling.
+
+**Duties & Responsibilities:**
+- Infrastructure Operations: Maintain the smooth operation of multi-user computer systems.
+- HPC Architecture & Deployment: Collaborate with senior architects to plan, design, and deploy complex parallel file systems (including Lustre, BeeGFS, and WEKA).
+- Workflow Optimization: Work directly with science area experts to tune computational workflows.
+- Automation: Leverage tools like Ansible, Python, and Bash to reduce manual labor.
+- User Support: Act as a technical consultant and partner to the research community.
+
+**Job Qualifications:**
+- Typically requires a bachelor's degree in information technology or a related discipline and fifteen or more years of experience.
+- Core Systems Experience: Extensive knowledge of the Linux stack, including NFS, ZFS, BTRFS, MDRaid (mdadm), and LVM.
+- Scripting & Automation: Demonstrated proficiency in Python, Ansible, and/or Bash scripting.
+
+---
+
+## 47. RISC-V AI / HPC & Agentic Software Engineering Lead - Tenstorrent (Taiwan)
+
+**Company:** Tenstorrent
+
+**Location:** Taiwan (Remote)
+
+Tenstorrent is building next-generation RISC-V CPUs optimized for AI, high-performance computing, and emerging autonomous AI systems. As the RISC-V AI / HPC & Agentic Software Engineering Lead, you will operate at the hardware–software boundary, enabling AI, HPC, and agentic AI software stacks on Tenstorrent's RISC-V processors.
+
+**Who You Are:**
+- A systems-oriented software engineer with deep experience in HPC and AI software stacks.
+- Experienced with distributed AI systems, orchestration frameworks, or agentic AI architectures.
+- Comfortable working close to hardware and instruction-level programming.
+- Skilled at translating performance targets into architectural and software requirements.
+
+**What We Need:**
+- Strong background in HPC and AI software development.
+- Solid understanding of RISC-V architecture (ISA, extensions, micro-architectural implications).
+- Proficiency in C/C++ and systems programming.
+- Experience optimizing performance-critical code paths.
+- Experience with agentic AI frameworks, distributed execution systems, or orchestration platforms.
+- Familiarity with compiler toolchains (LLVM, GCC).
+
+---
+
+## 48. HPC Systems Administrator - Mass General Brigham (Martinos Center)
+
+**Company:** Mass General Brigham
+
+**Location:** Charlestown, MA (Hybrid)
+
+**Salary Range:** $63,648 - $90,750
+
+The Martinos Center for Biomedical Imaging at Massachusetts General Hospital seeks a dedicated and highly motivated High-Performance Computing (HPC) Systems Administrator to oversee and optimize the center's HPC cluster.
+
+**Key Responsibilities:**
+- Cluster Management: Oversee the day-to-day operations, maintenance, and optimization of the Martinos Center's HPC cluster.
+- User Support: Provide technical support and guidance to researchers and staff using the HPC cluster.
+- System Monitoring and Performance Optimization: Develop and implement robust monitoring tools.
+- Collaboration and Training: Collaborate with researchers to understand their computational needs.
+
+**Qualifications:**
+- Experience with job scheduling using Slurm required.
+- Bachelor's degree in Computer Science, Information Technology, Engineering, or a related field.
+- 3+ years of experience in HPC systems administration or equivalent.
+- Strong expertise in Linux systems administration (e.g., CentOS, RHEL, Ubuntu) in an HPC environment.
+
+---
+
+## 49. Sr. HPC Systems Engineer - Johns Hopkins University
+
+**Company:** Johns Hopkins University
+
+**Location:** Baltimore, MD
+
+**Salary Range:** $85,500 - $149,800
+
+IT@JH Research Computing is seeking a *Sr. HPC Systems Engineer* who will design, build, and maintain advanced high-performance computing environments supporting Johns Hopkins University's research mission.
+
+**Specific Duties & Responsibilities:**
+- Support and administer production systems used by researchers and Research Centers.
+- Provide technical leadership/project management for system configuration, implementation, management, and user support.
+- Expertise with architecting, operating, and debugging large scale HPC network and storage infrastructure.
+- Deploy, configure, and maintain large-scale Linux-based HPC clusters.
+- Implement and optimize workload schedulers (Slurm) and job submission policies.
+- Administer and monitor distributed storage systems (GPFS, Lustre, WekaFS, Ceph, MinIO).
+
+**Minimum Qualifications:**
+- Bachelor's degree.
+- Six years of related experience.
+- Deep proficiency in Linux systems administration, configuration management (Ansible, Puppet, or Salt), performance monitoring, and tuning for HPC workloads.
+
+---
+
+## 50. HPC Software Engineer - The San Francisco Compute Company
+
+**Company:** The San Francisco Compute Company
+
+**Location:** San Francisco, CA (Onsite - 3-4 days/week)
+
+We're building the company which will de-risk the largest infrastructure build-out in history by creating a liquid market for GPU offtake.
+
+**About You:**
+- You will have 5+ years of experience with hands-on designing, architecting and scaling at least one HPC or GPU compute cluster in production.
+- You deeply understand server hardware fundamentals, including GPUs, NICs, PCIe, memory, thermals, and power.
+- You're comfortable debugging performance and reliability issues across hardware, OS, drivers, and networking layers.
+- The idea of automating fleet operations (provisioning, monitoring, remediation) excites you.
+- You appreciate, value, and generate strong operational documentation and runbooks.
+
+**Some Nice to Haves:**
+- Strong Linux systems administration experience, including kernel drivers, RDMA stack tuning, and performance analysis.
+- Experience with schedulers and orchestration systems such as Slurm and Kubernetes.
+- Experience troubleshooting high-speed fabrics such as InfiniBand and/or RoCEv2 Ethernet.
+
+**Benefits:**
+- Generous equity grant
+- Visa Sponsorships available
+- 401(k) matching up to 4%
+- 100% covered medical, dental & vision
+
+---
+
+## 51. HPC Operations Engineer - NVIDIA
+
+**Company:** NVIDIA
+
+**Location:** Various (US)
+
+**Salary Range:** $124,000 - $241,500
+
+As a member of the Hardware Infrastructure Farm team, you will provide leadership in the design and implementation of groundbreaking compute clusters that powers all silicon development across NVIDIA.
+
+**What You'll Be Doing:**
+- Troubleshoot incoming support requests in a large-scale HPC environment.
+- Contribute enhancements to existing deployment automation, configuration management, observability, and operational monitoring.
+- Ensure compute servers are running correct Operating System and configuration.
+- Troubleshoot Complex Issues from bare metal to application level.
+- Collaborate with domain experts to improve how our chip development process utilizes our infrastructure.
+
+**What We Need To See:**
+- Proficient in administering Centos/RHEL Linux distributions.
+- Understanding of container technologies like Docker.
+- Proficiency in Python and UNIX scripting languages such as bash.
+- BS in Computer Science, similar degree (or equivalent experience) with 2+ yrs of relevant post degree experience.
+- Solid understanding of cluster configuration managements tools such as Ansible.
+
+---
+
+## 52. HPC & Linux Systems Engineer - Ben-Gurion University
+
+**Company:** Ben-Gurion University of the Negev
+
+**Location:** Israel
+
+Ben-Gurion University of the Negev is seeking an experienced HPC & Linux Systems Engineer to support and advance the Faculty of Computer Science and Information Systems' high-performance computing infrastructure, cloud services, and research computing environments.
+
+**Key Responsibilities:**
+- Manage High Performance Computing (HPC) clusters and cloud-based services.
+- Develop, maintain, and optimize Linux-based computing environments and open-source infrastructure.
+- Administer and support HPC technologies including Slurm, Kubernetes, containers, and distributed computing environments.
+- Design and implement DevOps processes, automation tools, and user environments.
+- Monitor, analyze, and optimize system, cluster, and GPU performance.
+
+**Requirements:**
+- Bachelor's degree in Engineering, Computer Science, Software Engineering, Information Systems, or a related field.
+- At least 3 years of relevant experience.
+- Strong experience with Linux administration and Docker containers.
+- Hands-on experience with HPC environments, including Slurm and Kubernetes.
+- Proficiency in Python and Bash scripting.
+
+---
+
+## 53. HPC / AI Specialist - AI4I (Turin, Italy)
+
+**Company:** Italian Institute of Artificial Intelligence (AI4I)
+
+**Location:** Turin, Italy (Hybrid)
+
+The Italian Institute of Artificial Intelligence (AI4I) is seeking a hands-on HPC / AI Specialist to support and optimize the compute infrastructure powering the AI Foundry and Deployment activities.
+
+**About The Role:**
+
+As HPC / AI Specialist at AI4I, you will operate at the intersection of infrastructure operations and applied AI execution. You will ensure that engineers, researchers, and deployment teams can efficiently run training, fine-tuning, inference, and data-intensive pipelines on shared compute resources.
+
+**Key Responsibilities:**
+- Operate and maintain Linux-based HPC clusters supporting AI training, fine-tuning, and inference workloads.
+- Manage GPU and CPU compute environments, including workload scheduling, resource isolation, and performance tuning.
+- Support distributed and software-defined storage systems used for large-scale datasets.
+- Act as the primary technical interface between infrastructure operations and internal or external users running AI workflows.
+- Provide hands-on technical support for AI workload optimization.
+
+**Required Qualifications:**
+- Strong Linux system administration experience in production environments.
+- Solid background in CPU and GPU architectures and performance characteristics.
+- Experience operating HPC clusters or large-scale compute environments.
+- Hands-on experience with distributed and software-defined storage systems (e.g., VAST or equivalent).
+- Experience with workload managers and job schedulers (e.g., Slurm or equivalent).
+
+---
+
+## 54. HPC Performance Engineer - NVIDIA (Compilers & Tools)
+
+**Company:** NVIDIA
+
+**Location:** Various (US)
+
+As a member of our team in NVIDIA's NVHPC compilers & tools group, you will analyze and run High Performance Computing (HPC) applications on HPC servers and systems to gain insight into the performance characteristics of these applications.
+
+**What You'll Be Doing:**
+- Assist customers GPU accelerate HPC applications.
+- Analyze High Performance Computing(HPC) applications to better understand their performance characteristics.
+- Provide advise and drive compiler and applications engineering development teams based on the analysis of these HPC applications.
+
+**What We Need To See:**
+- BS/MS or equivalent experience in Computer Science or related engineering field.
+- 8+ Years of programming experience.
+- Solid understanding of Fortran/C/C++, as well as programming techniques, especially for parallel architectures.
+- Experience with OpenACC, OpenMP, MPI, and CUDA.
+- Strong skills in performance analysis and tuning.
+- Strong mathematical fundamentals, including linear algebra and numerical methods.
+
+---
+
+## 55. Senior Linux System Administrator - HPE (HPC/AI Labs)
+
+**Company:** Hewlett Packard Enterprise (HPE)
+
+**Location:** Various (US)
+
+**Salary Range:** $98,000 - $213,500
+
+This position will support government accounts. Therefore, due to federal export-control regulations, the selected candidate must hold U.S. citizenship, U.S. lawful permanent resident/Green Card status or otherwise have a category of refugee/asylee status.
+
+**Essential Job Functions And Duties:**
+- Image, configure, and upgrade servers with Linux operating systems.
+- Configure and manage multiple root slots hosting varied operating system images.
+- Provide design guidance and operational support for virtualized lab infrastructure.
+- Provide design guidance for lab storage solutions.
+- Provide guidance for hardware and software installation and configuration.
+- Collaborate with AI benchmarking, R&D, and performance engineering teams.
+- Design lab layouts, networks, and operational policies.
+
+**Education And Experience:**
+- Bachelor's degree in Computer Science, MIS, or a related technical field.
+- Minimum of 5-7 years of Linux system administration experience required, preferably in HPC, AI, or lab-based environments.
+
+---
+
+## 56. Senior HPC and AI Cluster Administrator - Accenture Federal Services
+
+**Company:** Accenture Federal Services
+
+**Location:** Various (US)
+
+**Clearance:** TS/SCI required
+
+AFS is looking for a Senior HPC and AI Cluster Administrator to support software and data solutions for our customers. We are integrating supercomputers and AI clusters based on existing technologies.
+
+**Key Responsibilities:**
+- Design, Deploy, and maintain HPC/AI clusters.
+- Manage AI jobs workflows using various scheduling technology, such as Kubernetes.
+- Support and maintain continuous integration and delivery pipelines.
+- Troubleshooting and fixing, bottom up from bare metal, operating system, software stack and application level.
+- Support Research, Development and Operational activities.
+
+**Basic Qualifications:**
+- Bachelor's Degree in Computer Science, Engineering, or a related field; or equivalent experience.
+- 5 years of experience in HPC and AI solution technologies.
+- Experience with job scheduling workloads and orchestration tools such as Slurm & K8s.
+- Excellent knowledge of Linux (i.e. Redhat, Ubuntu) networking.
+- Experience with multiple storage solutions such as Lustre, GPFS, zfs and xfs.
+- Must possess and maintain required DoD 8140 certifications.
+
+---
+
+## 57. HPC Engineer - CoreWeave (NVLink/NVSwitch)
+
+**Company:** CoreWeave
+
+**Location:** Poland
+
+**Salary Range:** 262,000 - 350,000 PLN
+
+CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence.
+
+**What You Will Do:**
+- Deploy, operate, and support NVLink/NVSwitch platforms across large data center environments.
+- Troubleshoot Linux, networking, hardware, firmware, performance, and stability issues in production.
+- Build automation and improve runbooks, dashboards, alerts, and lifecycle workflows.
+- Participate in on-call, incident response, root cause analysis, and follow-up improvements.
+
+**What We Are Looking For:**
+- Strong Linux system administration and troubleshooting skills.
+- Networking fundamentals and common troubleshooting tools.
+- Production debugging experience using logs, metrics, and command-line tools.
+- Server, network, GPU, or data center hardware troubleshooting experience.
+- Practical scripting or automation experience in Python, Go, Bash, or similar.
+- Curiosity to learn specialized GPU interconnect technologies such as NVLink, NVSwitch, and InfiniBand.
+
+---
+
+## 58. HPC System Administrator - Santa Clara University
+
+**Company:** Santa Clara University
+
+**Location:** Santa Clara, CA (Onsite)
+
+**Salary Range:** $129,000 - $161,265
+
+The High-Performance Computing (HPC) System Administrator is an expert, hands-on role responsible for the design, configuration, optimization, and operation of the organization's high-performance computing infrastructure.
+
+**ESSENTIAL DUTIES AND RESPONSIBILITIES:**
+
+**HPC Infrastructure Management and Optimization:**
+- Compute: Manages the entire lifecycle of all compute nodes.
+- Storage: Directs the management of the high-performance parallel file systems (e.g., Lustre, GPFS).
+- InfiniBand: Designs, deploys, and provides expert-level troubleshooting and maintenance for the InfiniBand high-speed interconnect fabric.
+
+**Workload Management and System Deployment:**
+- Slurm: Administers, configures, and tunes the Slurm Workload Manager.
+- System Imaging: Develops, maintains, and updates standardized, optimized system images.
+- Software Licenses: Oversees the administration and compliance of all commercial scientific software licenses.
+
+**Qualifications:**
+- 8+ years applicable experience in enterprise-wide computer center systems.
+- 2+ years of experience supporting an HPC required, including experience in Slurm or similar workload manager.
+- Experience with parallel file systems.
+- Experience with Infiniband networks.
+- Strong proficiency with scripting languages (Python, Bourne Shell, Perl, etc.)
+
+---
+
